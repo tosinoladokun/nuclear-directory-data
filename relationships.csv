@@ -1,0 +1,412 @@
+id,type,from_slug,to_table,to_slug,ownership_pct,description,started_on,ended_on,checked_on
+company-1,supplies,allied-power,companies,constellation-energy,,Signed multi-year contract extension (Feb 2023): maintenance and modification services at 12 Constellation nuclear plants (21 units) plus fleet-wide staff augmentation through mid-August 2028.,,,2026-10-10
+company-2,subsidiary_of,allied-power,companies,bernhard-capital-partners,,Allied Power was acquired by private equity firm Bernhard Capital Partners in November 2020.,,,2026-10-10
+company-3,offtake_with,amazon,companies,talen-energy,,"Signed expanded PPA (June 2025): 1,920 MW of nuclear power from Susquehanna through 2042.",,,2026-10-10
+company-4,invests_in,amazon,companies,x-energy,,"Amazon's Climate Pledge Fund anchored X-energy's Series C-1 of about $500M (Oct 2024), alongside Ken Griffin, Ares, NGP and the University of Michigan.",,,2026-10-10
+company-5,offtake_with,amazon,companies,energy-northwest,,Agreement (Oct 2024): Amazon funds the initial feasibility phase of the Cascade SMR project and has the right to buy electricity from the first phase.,,,2026-10-10
+company-6,invests_in,breakthrough-energy-ventures,companies,commonwealth-fusion-systems,,"Increased its stake in CFS's $863M Series B2 (Aug 2025), as an existing investor.",,,2026-10-10
+company-7,invests_in,breakthrough-energy-ventures,companies,type-one-energy,,Co-led Type One Energy's financing round (Mar 2023) with TDK Ventures and Doral Energy-Tech Ventures.,,,2026-10-10
+company-8,supplies,centrus-energy,companies,us-department-of-energy,,"DOE enrichment services task order (Jan 2026): $900M to subsidiary American Centrifuge Operating to create domestic HALEU enrichment capacity, milestone-based (task order under DOE's HALEU enrichment IDIQ).",,,2026-10-10
+company-9,supplies,centrus-energy,companies,x-energy,,"Signed definitive agreement (Aug 2026) for Centrus to provide LEU and HALEU enrichment services to X-energy, phased, with X-energy prepayments.",,,2026-10-10
+company-10,supplies,centrus-energy,companies,triso-x,,"Under the Aug 2026 X-energy/Centrus definitive agreement, HALEU enriched at Piketon is to be supplied to TRISO-X for fuel fabrication.",,,2026-10-10
+company-11,supplies,commonwealth-fusion-systems,companies,type-one-energy,,License agreement (2025): Type One licensed CFS's HTS cable technology for its stellarator magnets.,,,2026-10-10
+company-12,supplies,constellation-energy,companies,helion-energy,,"Power marketer and transmission manager for Helion's first fusion plant, which is to supply Microsoft under a 2023 power purchase agreement.",,,2026-10-10
+company-13,supplies,converdyn,companies,us-department-of-energy,,Award (early 2023) from DOE's National Nuclear Security Administration: about $14M for conversion services (U3O8 to UF6) for the domestic uranium reserve.,,,2026-10-10
+company-14,subsidiary_of,converdyn,companies,solstice-advanced-materials,,ConverDyn is a partnership of General Atomics and Solstice Advanced Materials.,,,2026-10-10
+company-15,supplies,dominion-energy,companies,commonwealth-fusion-systems,,"Signed agreement (Dec 2024): a non-financial collaboration covering development and technical expertise, plus leasing rights for the ARC site in Chesterfield County, VA.",,,2026-10-10
+company-16,supplies,enercon,companies,holtec-international,,"Licensing services: ENERCON helped prepare Part 1 of Holtec's construction permit application (limited work authorization request and environmental report) for Palisades Pioneer Units 1 & 2, which NRC accepted in February 2026.",,,2026-10-10
+company-17,supplies,energy-fuels,companies,us-department-of-energy,,"Contract (Dec 2022) from DOE's National Nuclear Security Administration to sell natural uranium concentrates (U3O8) to the US strategic uranium reserve, with expected gross proceeds of $18.5M and completion expected in Q1 2023.",,,2026-10-10
+company-18,supplies,framatome,companies,dominion-energy,,"Signed five-year outage and maintenance services contract (reported Apr 2021) for Dominion's nuclear fleet: steam generator services, refuelling, inspections.",,,2026-10-10
+company-19,subsidiary_of,ge-vernova-hitachi-nuclear-energy,companies,ge-vernova,,"GE Vernova's nuclear business, run through its alliance with Hitachi.",,,2026-10-10
+company-20,subsidiary_of,ge-vernova-hitachi-nuclear-energy,companies,hitachi,,"Hitachi is the alliance partner in GE Vernova Hitachi Nuclear Energy (formerly GE Hitachi, created by GE and Hitachi in 2007).",,,2026-10-10
+company-21,supplies,general-matter,companies,us-department-of-energy,,"DOE enrichment services task order (Jan 2026): $900M to create domestic HALEU enrichment capacity, milestone-based (task order under DOE's HALEU enrichment IDIQ).",,,2026-10-10
+company-22,subsidiary_of,georgia-power,companies,southern-company,,Georgia Power is one of Southern Company's retail operating companies.,,,2026-10-10
+company-23,supplies,global-nuclear-fuel-americas,companies,terrapower,,Signed agreement (Oct 2022) to build the Natrium Fuel Facility at GNF-A's Wilmington site to fuel the Natrium demonstration plant; jointly funded by TerraPower and DOE (ARDP).,,,2026-10-10
+company-24,subsidiary_of,global-nuclear-fuel-americas,companies,ge-vernova,,"GNF is a GE Vernova-led joint venture with Hitachi, working mainly through Global Nuclear Fuel-Americas, LLC in Wilmington, NC.",,,2026-10-10
+company-25,subsidiary_of,global-nuclear-fuel-americas,companies,hitachi,,"Hitachi, Ltd. is the joint-venture partner in GNF, which GE Vernova leads.",,,2026-10-10
+company-26,offtake_with,google,companies,commonwealth-fusion-systems,,"Signed PPA (June 2025) for 200 MW from CFS's first ARC plant, with option on future plants.",,,2026-10-10
+company-27,invests_in,google,companies,commonwealth-fusion-systems,,Equity investor since 2021; increased stake in June 2025 (terms undisclosed) and participated in the Aug 2025 Series B2.,,,2026-10-10
+company-28,offtake_with,google,companies,kairos-power,,Signed Master Plant Development Agreement (Oct 2024) for 500 MW of Kairos plants by 2035 under PPAs; first deployment is Hermes 2 via TVA.,,,2026-10-10
+company-29,offtake_with,google,companies,tennessee-valley-authority,,Google receives clean energy attributes from Hermes 2 through the TVA system (part of the Aug 2025 Kairos-TVA-Google agreement).,,,2026-10-10
+company-30,invests_in,khosla-ventures,companies,commonwealth-fusion-systems,,"Increased its stake in CFS's Series B2 (Aug 2025), as an existing investor.",,,2026-10-10
+company-31,invests_in,lightspeed-venture-partners,companies,helion-energy,,"Invested in Helion's $425M Series F (Jan 2025), as a new investor.",,,2026-10-10
+company-32,invests_in,lowercarbon-capital,companies,commonwealth-fusion-systems,,"Increased its stake in CFS's Series B2 (Aug 2025), as an existing investor.",,,2026-10-10
+company-33,offtake_with,meta-platforms,companies,constellation-energy,,"Signed 20-year PPA (June 2025) for 1,121 MW from the Clinton Clean Energy Center beginning June 2027.",,,2026-10-10
+company-35,offtake_with,microsoft,companies,constellation-energy,,"Signed 20-year PPA (Sept 2024) for the output of the restarted Crane Clean Energy Center (TMI Unit 1), about 835 MW; deliveries are subject to NRC and other approvals.",,,2026-10-10
+company-36,offtake_with,microsoft,companies,helion-energy,,"Signed fusion PPA (May 2023): Helion to supply Microsoft electricity from its first fusion plant, 50 MW+ targeted from 2028.",,,2026-10-10
+company-37,supplies,sargent-lundy,companies,x-energy,,"Licensing services for the Long Mott (Dow Seadrift, TX) four-unit Xe-100 construction permit application: site selection and characterization, environmental report and support of the PSAR, working with X-energy since 2022. The application is submitted, and NRC review was ongoing as of August 2025.",,,2026-10-10
+company-38,supplies,sargent-lundy,companies,triso-x,,"Design and licensing support for the TRISO-X fuel fabrication facility (10 CFR 70) since 2018, including site selection, site characterization and the environmental report for the license application.",,,2026-10-10
+company-39,supplies,sargent-lundy,companies,tennessee-valley-authority,,"Owner's engineer since 2021 for Clinch River; its work includes the construction permit application, PSAR development and environmental report for TVA's Clinch River BWRX-300.",,,2026-10-10
+company-40,supplies,sargent-lundy,companies,ge-vernova-hitachi-nuclear-energy,,"Design and licensing support since 2023 for the BWRX-300, responsible for the reactor building standard plant design that supports NRC and CNSC licensing.",,,2026-10-10
+company-41,offtake_with,tennessee-valley-authority,companies,kairos-power,,Signed PPA: TVA buys up to 50 MW from Kairos Power's Hermes 2 reactor (first US utility PPA with a Gen IV reactor). Announced Aug 2025.,,,2026-10-10
+company-42,subsidiary_of,triso-x,companies,x-energy,,"TRISO-X, LLC is a subsidiary of X-energy Reactor Company, LLC, X-energy's operating company.",,,2026-10-10
+company-43,supplies,ur-energy,companies,us-department-of-energy,,"Contract (Dec 2022) from DOE's National Nuclear Security Administration to sell 100,000 lb of U3O8 to the US strategic uranium reserve at $64.47/lb.",,,2026-10-10
+company-45,funds,us-department-of-energy,companies,terrapower,,"ARDP award (Oct 2020): $80M initial funding to demonstrate Natrium; cost-shared, DOE total up to $3.2B over seven years across both ARDP demos subject to appropriations.",,,2026-10-10
+company-46,funds,us-department-of-energy,companies,x-energy,,ARDP award (Oct 2020): $80M initial funding for a four-unit Xe-100 plant and TRISO fuel fabrication facility; cost-shared.,,,2026-10-10
+company-47,funds,us-department-of-energy,companies,kairos-power,,Hermes is supported by DOE's Advanced Reactor Demonstration Program.,,,2026-10-10
+company-48,funds,us-department-of-energy,companies,commonwealth-fusion-systems,,Selected (May 2023) in the $46M Milestone-Based Fusion Development Program; payments only on verified milestones.,,,2026-10-10
+company-49,funds,us-department-of-energy,companies,type-one-energy,,One of eight awardees (May 2023) of the Milestone-Based Fusion Development Program.,,,2026-10-10
+company-50,supplies,us-department-of-energy,companies,terrapower,,Conditional commitment (Apr 2025) to provide HALEU from DOE sources (first-round HALEU allocation); contracting to follow.,,,2026-10-10
+company-51,supplies,us-department-of-energy,companies,kairos-power,,"Conditional HALEU allocation (Apr 2025), first round.",,,2026-10-10
+company-52,supplies,us-department-of-energy,companies,triso-x,,"Conditional HALEU allocation (Apr 2025), first round.",,,2026-10-10
+company-53,supplies,us-department-of-energy,companies,westinghouse-electric-company,,"Conditional HALEU allocation (Apr 2025), first round.",,,2026-10-10
+company-54,offtake_with,amazon,companies,vistra-corporation,,"Signed 20-year PPA for up to 1,200 MW from the Comanche Peak plant (buyer named as AWS in Vistra's Feb 2026 results).",,,2026-10-16
+company-55,offtake_with,amazon,companies,constellation-energy,,"Signed 20-year agreement (Sept 2026) for 690 MW from Calvert Cliffs, including a 190 MW uprate.",,,2026-10-16
+company-56,offtake_with,google,companies,nextera-energy,,"Signed 25-year agreement (Oct 2025) to buy power from the 615 MW Duane Arnold plant once restarted (online by Q1 2029, pending approvals); CIPCO buys the rest.",,,2026-10-16
+company-57,offtake_with,google,companies,constellation-energy,,"Signed agreements (Oct 2026): a 20-year PPA supporting 890 MW of uprates at 11 Constellation units in Illinois, Pennsylvania and New Jersey, and a 15-year energy supply agreement for 2,700 MW from Constellation's PJM fleet.",,,2026-10-16
+company-58,offtake_with,meta-platforms,companies,vistra-corporation,,"Signed 20-year agreements (Jan 2026) for more than 2.1 GW from Perry and Davis-Besse, plus 433 MW of uprates at Perry, Davis-Besse and Beaver Valley.",,,2026-10-16
+company-59,funds,us-department-of-energy,companies,nuscale-power,,"2 awards from the U.S. Department of Energy totaling $270.2 million (first in 2015, latest in 2019): DENE0008928 and DENE0008369.",2015-08-11,,2026-10-17
+company-60,funds,us-department-of-energy,companies,framatome,,"2 awards from the U.S. Department of Energy totaling $153.2 million (first in 2018, latest in 2021): DENE0009034 and DENE0008818.",2018-12-01,,2026-10-17
+company-61,funds,us-department-of-energy,companies,ge-vernova,,"2 awards from the U.S. Department of Energy totaling $94.8 million (first in 2021, latest in 2023): DENE0009047 and DEEE0010874.",2021-11-05,,2026-10-17
+company-62,funds,us-department-of-energy,companies,westinghouse-electric-company,,"4 awards from the U.S. Department of Energy totaling $147.3 million (first in 2019, latest in 2024): DENE0009033, DENE0008824, DENE0008853 and 1 more.",2019-01-01,,2026-10-17
+company-63,funds,us-department-of-energy,companies,constellation-energy,,1 award from the U.S. Department of Energy totaling $73.2 million (2021): DENE0009042.,2021-10-01,,2026-10-16
+company-64,funds,us-department-of-energy,companies,southern-company,,"2 awards from the U.S. Department of Energy totaling $101.4 million (first in 2016, latest in 2021): DENE0009045 and DENE0008473.",2016-07-11,,2026-10-17
+company-65,funds,us-department-of-energy,companies,advanced-reactor-concepts,,1 award from the U.S. Department of Energy totaling $20.2 million (2021): DENE0009223.,2021-12-23,,2026-10-16
+company-66,funds,us-department-of-energy,companies,energy-harbor-nuclear-corp,,1 award from the U.S. Department of Energy totaling $10.5 million (2021): DENE0008925.,2021-09-27,,2026-10-16
+company-67,funds,us-department-of-energy,companies,ceramic-tubular-products,,1 award from the U.S. Department of Energy totaling $6.1 million (2021): DENE0009030.,2021-04-09,,2026-10-17
+company-68,funds,us-department-of-energy,companies,blue-wave-capital-and-consulting,,1 award from the U.S. Department of Energy totaling $4.3 million (2020): DENE0008930.,2020-07-20,,2026-10-17
+company-69,funds,us-department-of-energy,companies,nuvision-engineering-inc,,1 award from the U.S. Department of Energy totaling $3.0 million (2019): DENE0008816.,2019-01-01,,2026-10-16
+company-70,funds,us-department-of-energy,companies,container-technologies-industries,,1 award from the U.S. Department of Energy totaling $3.0 million (2026): DENE0009542.,2026-04-08,,2026-10-16
+company-71,funds,us-department-of-energy,companies,electric-power-research-institute,,1 award from the U.S. Department of Energy totaling $2.9 million (2019): DENE0008846.,2019-05-15,,2026-10-17
+company-72,funds,us-department-of-energy,companies,bwxt,,"2 awards from the U.S. Department of Energy totaling $102.6 million (first in 2018, latest in 2023): 89233123FNA400535 and DENE0008744.",2018-08-01,,2026-10-16
+company-73,funds,us-department-of-energy,companies,analysis-and-measurement-services,,1 award from the U.S. Department of Energy totaling $2.1 million (2019): DENE0008855.,2019-07-02,,2026-10-17
+company-74,funds,us-department-of-energy,companies,pkmj-technical-services-llc,,1 award from the U.S. Department of Energy totaling $2.0 million (2019): DENE0008847.,2019-08-07,,2026-10-17
+company-75,funds,us-department-of-energy,companies,3m-company,,1 award from the U.S. Department of Energy totaling $1.9 million (2024): DENE0009345.,2024-02-22,,2026-10-16
+company-76,funds,us-department-of-energy,companies,nac-international,,1 award from the U.S. Department of Energy totaling $1.7 million (2026): DENE0009540.,2026-06-01,,2026-10-16
+company-77,funds,us-department-of-energy,companies,good-energy-collective-incorporated,,1 award from the U.S. Department of Energy totaling $1.7 million (2023): DENE0009335.,2023-08-09,,2026-10-16
+company-78,funds,us-department-of-energy,companies,centrus-energy,,"HALEU enrichment services contract: selected in 2024 to bid on task orders; HALEU enrichment services task order, finalized January 5, 2026; HALEU deconversion services contract, to bid on deconversion work",2019-05-31,,2026-10-17
+company-79,funds,us-department-of-energy,companies,general-matter,,"HALEU enrichment services contract: selected in 2024 to bid on task orders; HALEU enrichment services task order, finalized January 5, 2026",2026-03-15,,2026-10-16
+company-80,funds,us-department-of-energy,companies,nuclear-fuel-services,,"3 awards from the U.S. Department of Energy totaling $359.0 million (first in 2021, latest in 2024): 89233123CNA000308, 89233121CNA000175 and 89233124CNA000371.",2021-03-01,,2026-10-17
+company-81,funds,us-department-of-energy,companies,ensco,,1 award from the U.S. Department of Energy totaling $4.7 million (2022): 89243222CNE000026.,2022-08-01,,2026-10-16
+company-82,funds,us-department-of-energy,companies,leidos-inc,,1 award from the U.S. Department of Energy totaling $4.3 million (2022): 89243222FNE400082.,2022-04-21,,2026-10-16
+company-85,funds,us-department-of-energy,companies,nusenics,,1 award from the U.S. Department of Energy totaling $2.5 million (2022): DESC0022578.,2022-06-27,,2026-10-16
+company-86,funds,us-department-of-energy,companies,aqwest,,1 award from the U.S. Department of Energy totaling $2.2 million (2016): DESC0015834.,2016-06-13,,2026-10-16
+company-87,funds,us-department-of-energy,companies,ampeers,,1 award from the U.S. Department of Energy totaling $1.4 million (2024): DESC0024754.,2024-02-12,,2026-10-16
+company-88,funds,us-department-of-energy,companies,sydor-instruments,,1 award from the U.S. Department of Energy totaling $1.4 million (2023): DESC0023913.,2023-07-10,,2026-10-16
+company-89,funds,us-department-of-energy,companies,plasma-processes,,1 award from the U.S. Department of Energy totaling $1.3 million (2020): DESC0020701.,2020-06-29,,2026-10-16
+company-90,funds,us-department-of-energy,companies,xuv-lasers,,1 award from the U.S. Department of Energy totaling $1.3 million (2023): DESC0023878.,2023-07-10,,2026-10-16
+company-91,funds,us-department-of-energy,companies,bridge12,,1 award from the U.S. Department of Energy totaling $1.3 million (2019): DESC0019918.,2019-07-01,,2026-10-16
+company-92,funds,us-department-of-energy,companies,brookhaven-technology-group,,1 award from the U.S. Department of Energy totaling $1.2 million (2018): DESC0018737.,2018-07-02,,2026-10-16
+company-93,offtake_with,amazon,companies,x-energy,,Framework (Oct 2024): Amazon and X-energy aim to bring more than 5 GW of new SMR power projects online in the US by 2039.,,,2026-10-16
+company-94,offtake_with,amazon,companies,dominion-energy,,Framework (Oct 2024): an agreement for Amazon and Dominion Energy to explore an SMR project near the North Anna nuclear station that would bring at least 300 MW to Virginia.,,,2026-10-16
+company-95,offtake_with,crusoe,companies,blue-energy,,"Strategic partnership (Oct 2025): Blue Energy to design, develop and operate a nuclear plant of up to 1.5 GW at the Port of Victoria, Texas, to power a nearby Crusoe-developed AI campus.",,,2026-10-16
+company-96,offtake_with,equinix,companies,oklo,,Prepayment (2024): $25M toward a future 20-year PPA for up to 500 MW for Equinix data centers.,,,2026-10-16
+company-97,offtake_with,google,companies,elementl-power,,"Strategic agreement with early-stage capital (May 2025): Google funds Elementl to prepare three US sites for advanced nuclear projects of at least 600 MW each, with an option to buy power once they are built.",,,2026-10-16
+company-98,offtake_with,google,companies,georgia-power,,"Agreement, pending Georgia PSC approval (Sept 2026): Google supports uprates adding about 96 MW at Plants Vogtle and Hatch and subscribes to the new Nuclear Uprate (NU-1) tariff for the uprates' zero-emission credits.",,,2026-10-16
+company-99,offtake_with,meta-platforms,companies,oklo,,"Prepayment agreement (Jan 2026) toward a power campus of up to 1.2 GW in Pike County, Ohio, which may come online as early as 2030.",,,2026-10-16
+company-100,offtake_with,new-era-energy-digital,companies,last-energy,,"Partnership, early development (reported Mar 2026): Last Energy to develop 1+ GW of SMRs for New Era's Texas Critical Data Centers campus outside Odessa, Texas (Ector County).",,,2026-10-16
+company-101,supplies,nuscale-power,companies,standard-power,,"Announced plan (Oct 2023): NuScale to provide 24 of its 77 MWe modules (1,848 MWe in total) for planned SMR plants at sites in Ohio and Pennsylvania.",,,2026-10-16
+company-102,offtake_with,prometheus-hyperscale,companies,oklo,,Non-binding letter of intent (reported Nov 2024): Oklo to supply 100 MW to a Prometheus Hyperscale data center campus through a 20-year PPA.,,,2026-10-16
+company-103,supplies,radiant,companies,equinix,,Preorder (Aug 2025): Equinix agreed to buy 20 Kaleidos microreactors from Radiant.,,,2026-10-16
+company-104,invests_in,samsung-c-t,companies,kairos-power,,"Binding term sheet (Sept 2026): up to $100M in direct investment and in-kind engineering services for the Hermes 2 Demonstration Plant, subject to regulatory approvals.",,,2026-10-16
+company-105,offtake_with,switch,companies,oklo,,Non-binding master power agreement (Dec 2024): Oklo to deploy 12 GW of Aurora powerhouse projects through 2044.,,,2026-10-16
+company-136,subsidiary_of,alabama-power,companies,southern-company,,Alabama Power is part of Southern Company.,,,2026-10-19
+company-137,supplies,asp-isotopes,companies,terrapower,,"Term sheet (Oct 2024): ASP Isotopes to build a HALEU enrichment facility in South Africa, with TerraPower investing in it and buying its HALEU for the Natrium reactor.",,,2026-10-19
+company-138,subsidiary_of,florida-power-light-co,companies,nextera-energy,,"FPL is a subsidiary of NextEra Energy, Inc.",,,2026-10-19
+company-139,subsidiary_of,nuclear-fuel-services,companies,bwxt,,NFS is a BWXT subsidiary.,,,2026-10-19
+company-140,funds,meta-platforms,companies,terrapower,,"Funding agreement (Jan 2026): Meta funds early development of two Natrium units (up to 690 MW, as early as 2032) and has rights to energy from up to six more units (2.1 GW by 2035).",,,2026-10-19
+company-141,supplies,curtiss-wright,companies,terrapower,,"Under contracts awarded earlier, to develop the Natrium plant's distributed control and reactor protection systems.",,,2026-10-20
+company-142,subsidiary_of,holtec-decommissioning-international,companies,holtec-international,,Wholly owned subsidiary of Holtec International.,,,2026-10-20
+company-143,funds,us-department-of-energy,companies,holtec-international,,"3 awards from the U.S. Department of Energy totaling $111.1 million (first in 2020, latest in 2023): DENE0009055, DENE0008833 and DENE0009336.",2020-04-01,,2026-10-21
+company-144,funds,us-department-of-energy,companies,general-atomics,,"7 awards from the U.S. Department of Energy totaling $1.32 billion (first in 2003, latest in 2025): DEFC0204ER54698, DENE0009235, DENE0009052 and 4 more.",2003-11-01,,2026-10-21
+company-145,funds,us-department-of-energy,companies,global-laser-enrichment,,1 award from the U.S. Department of Energy totaling $28.4 million (2026): DENE0009559.,2026-06-29,,2026-10-21
+company-146,funds,us-department-of-energy,companies,northern-states-power-company-minnesota,,1 award from the U.S. Department of Energy totaling $10.6 million (2022): DENE0009038.,2022-06-01,,2026-10-22
+company-147,funds,us-department-of-energy,companies,advanced-conductor-technologies,,"2 awards from the U.S. Department of Energy totaling $3.4 million (first in 2015, latest in 2017): DESC0013723 and DESC0018125.",2015-06-08,,2026-10-21
+company-148,subsidiary_of,duke-energy-florida,companies,duke-energy,,Duke Energy's Florida electric utility.,,,2026-10-21
+company-149,offtake_with,sabey-data-centers,companies,terrapower,,MOU (Jan 2025): to develop a strategic collaboration agreement on Natrium plants for Sabey data centers. No capacity or price stated.,,,2026-10-21
+company-150,offtake_with,tennessee-valley-authority,companies,entra1-energy,,"Non-binding collaborative agreement (framework) for up to 6 GW of NuScale SMR capacity, reached in 2025 with ENTRA1. It is not a power purchase agreement.",,,2026-10-24
+company-151,funds,us-department-of-energy,companies,radiation-monitoring-devices,,"4 awards from the U.S. Department of Energy totaling $5.9 million (first in 2016, latest in 2022): DESC0020950, DESC0015934, DESC0018598 and 1 more.",2016-06-13,,2026-10-24
+company-152,funds,us-department-of-energy,companies,faraday-technology,,"2 awards from the U.S. Department of Energy totaling $2.6 million (first in 2019, latest in 2024): DESC0019602 and DESC0025086.",2019-02-19,,2026-10-24
+company-153,funds,us-department-of-energy,companies,x-wave-innovations,,"7 awards from the U.S. Department of Energy totaling $7.9 million (first in 2015, latest in 2022): DESC0013745, DESC0022827, DESC0020019 and 4 more.",2015-06-08,,2026-10-24
+company-154,funds,us-department-of-energy,companies,wsc,,1 award from the U.S. Department of Energy totaling $2.2 million (2018): DESC0018915.,2018-07-02,,2026-10-24
+company-155,funds,us-department-of-energy,companies,fpolisolutions,,1 award from the U.S. Department of Energy totaling $1.4 million (2023): DESC0023769.,2023-07-10,,2026-10-24
+company-156,funds,us-department-of-energy,companies,opticslah,,1 award from the U.S. Department of Energy totaling $1.4 million (2021): DESC0021919.,2021-06-28,,2026-10-24
+company-157,funds,us-department-of-energy,companies,materials-modifications,,"2 awards from the U.S. Department of Energy totaling $1.6 million (first in 2021, latest in 2025): DESC0021812 and DESC0026142.",2021-06-28,,2026-10-24
+company-158,funds,us-department-of-energy,companies,radiant,,1 award from the U.S. Department of Energy totaling $1.3 million (2022): DESC0022800.,2022-06-27,,2026-10-24
+company-159,funds,us-department-of-energy,companies,illinoisrocstar,,"3 awards from the U.S. Department of Energy totaling $2.7 million (first in 2018, latest in 2022): DESC0020733, DESC0018830 and DESC0022606.",2018-07-02,,2026-10-24
+company-160,funds,us-department-of-energy,companies,ares-security,,"2 awards from the U.S. Department of Energy totaling $1.5 million (first in 2020, latest in 2022): DESC0020873 and DESC0022781.",2020-06-29,,2026-10-24
+company-161,funds,us-department-of-energy,companies,operant-networks,,1 award from the U.S. Department of Energy totaling $1.3 million (2021): DESC0021914.,2021-06-28,,2026-10-24
+company-162,funds,us-department-of-energy,companies,questek-innovations,,1 award from the U.S. Department of Energy totaling $1.3 million (2020): DESC0020605.,2020-02-18,,2026-10-24
+company-163,funds,us-department-of-energy,companies,h3d,,"3 awards from the U.S. Department of Energy totaling $1.7 million (first in 2019, latest in 2025): DESC0019883, DESC0026151 and DESC0026443.",2019-07-01,,2026-10-24
+facility-1,offtakes_from,amazon,facilities,susquehanna-steam-electric-station,,,,,2026-10-10
+facility-2,offtakes_from,amazon,facilities,cascade-advanced-energy-facility,,,,,2026-10-10
+facility-3,operates,centrus-energy,facilities,american-centrifuge-plant,,,,,2026-10-10
+facility-4,owns,commonwealth-fusion-systems,facilities,fall-line-fusion-power-station,,"Planned, about 400 MWe, early 2030s; Dominion Energy Virginia will offer CFS leasing rights to the site.",,,2026-10-10
+facility-5,owns,constellation-energy,facilities,crane-clean-energy-center,,"Restart planned, subject to NRC approval. About 835 MW.",,,2026-10-10
+facility-6,owns,constellation-energy,facilities,clinton-clean-energy-center,,,,,2026-10-10
+facility-7,operates,dominion-energy,facilities,north-anna-power-station,,,,,2026-10-10
+facility-9,owns,energy-fuels,facilities,white-mesa-mill,,The only fully licensed and operating conventional uranium processing facility in the United States.,,,2026-10-10
+facility-10,operates,energy-fuels,facilities,white-mesa-mill,,,,,2026-10-10
+facility-11,owns,energy-fuels,facilities,pinyon-plain-mine,,Conventional underground mine in northern Arizona; its ore goes to White Mesa Mill in southern Utah.,,,2026-10-10
+facility-12,operates,energy-northwest,facilities,columbia-generating-station-unit,,,,,2026-10-10
+facility-14,vendor_for,ge-vernova-hitachi-nuclear-energy,facilities,clinch-river-nuclear-site-unit-1,,,,,2026-10-10
+facility-15,vendor_for,ge-vernova-hitachi-nuclear-energy,facilities,kemmerer-unit-1,,,,,2026-10-10
+facility-16,owns,georgia-power,facilities,plant-vogtle,45.7,"Plant Vogtle is co-owned by Georgia Power, Oglethorpe Power, MEAG Power and Dalton Utilities; the ownership shares are for Units 3 and 4.",,,2026-10-10
+facility-18,offtakes_from,google,facilities,fall-line-fusion-power-station,,,,,2026-10-10
+facility-19,owns,helion-energy,facilities,orion-fusion-power-plant,,"Under construction on land leased from Chelan County PUD. Targeted to come online in 2028, at 50 MW or more.",,,2026-10-10
+facility-21,operates,idaho-national-laboratory,facilities,advanced-test-reactor,,Research reactor at Idaho National Laboratory.,,,2026-10-20
+facility-22,owns,kairos-power,facilities,hermes-low-power-demonstration-reactor,,,,,2026-10-10
+facility-23,owns,kairos-power,facilities,hermes-2,,"Redesign announced Aug 2025: single reactor, 50 MWe, operations 2030.",,,2026-10-10
+facility-24,owns,kairos-power,facilities,kairos-power-salt-production-facility,,,,,2026-10-10
+facility-25,offtakes_from,meta-platforms,facilities,clinton-clean-energy-center,,,,,2026-10-10
+facility-26,offtakes_from,microsoft,facilities,crane-clean-energy-center,,,,,2026-10-10
+facility-27,offtakes_from,microsoft,facilities,orion-fusion-power-plant,,,,,2026-10-10
+facility-28,operates,oak-ridge-national-laboratory,facilities,high-flux-isotope-reactor,,"Research reactor, 85 MW thermal.",,,2026-10-10
+facility-29,owns,solstice-advanced-materials,facilities,metropolis-works-uranium-conversion-facility,,,,,2026-10-10
+facility-30,operates,solstice-advanced-materials,facilities,metropolis-works-uranium-conversion-facility,,,,,2026-10-10
+facility-31,owns,talen-energy,facilities,susquehanna-steam-electric-station,90.0,,,,2026-10-10
+facility-32,owns,tennessee-valley-authority,facilities,clinch-river-nuclear-site-unit-1,,NRC construction permit issued in September 2026.,,,2026-10-10
+facility-33,offtakes_from,tennessee-valley-authority,facilities,hermes-2,,,,,2026-10-10
+facility-34,owns,tennessee-valley-authority,facilities,infinity-two-fusion-power-plant,,"TVA owns the site. The plant is covered only by a non-binding letter of intent, and final decisions need TVA Board approval.",,,2026-10-10
+facility-35,owns,terrapower,facilities,kemmerer-unit-1,,NRC construction permit approved March 2026; completion expected 2030. Owned via subsidiary US SFR Owner.,,,2026-10-10
+facility-36,owns,triso-x,facilities,triso-x-tx-1-fuel-fabrication-facility,,NRC Part 70 license Feb 2026; under construction.,,,2026-10-10
+facility-37,vendor_for,type-one-energy,facilities,infinity-two-fusion-power-plant,,"Planned, under a non-binding TVA letter of intent.",,,2026-10-10
+facility-38,owns,ur-energy,facilities,lost-creek-isr-uranium-facility,,"In-situ recovery (ISR) mine with a processing plant, operating since 2013.",,,2026-10-10
+facility-39,operates,ur-energy,facilities,lost-creek-isr-uranium-facility,,,,,2026-10-10
+facility-40,owns,ur-energy,facilities,shirley-basin-isr-operation,,Uranium recovery began in April 2026.,,,2026-10-10
+facility-41,operates,ur-energy,facilities,shirley-basin-isr-operation,,,,,2026-10-10
+facility-42,operates,urenco,facilities,urenco-usa-enrichment-facility,,,,,2026-10-10
+facility-43,vendor_for,westinghouse-electric-company,facilities,plant-vogtle,,Units 3 and 4 (the AP1000 units).,,,2026-10-10
+facility-44,vendor_for,x-energy,facilities,cascade-advanced-energy-facility,,,,,2026-10-10
+facility-45,vendor_for,x-energy,facilities,long-mott-generating-station,,,,,2026-10-10
+facility-58,owns,allegheny-electric-cooperative,facilities,susquehanna-steam-electric-station,10.0,,,,2026-10-11
+facility-59,owns,dalton-utilities,facilities,plant-vogtle,1.6,"Plant Vogtle is co-owned by Georgia Power, Oglethorpe Power, MEAG Power and Dalton Utilities; the ownership shares are for Units 3 and 4.",,,2026-10-11
+facility-60,owns,dominion-energy,facilities,north-anna-power-station,88.4,,,,2026-10-11
+facility-61,owns,energy-northwest,facilities,columbia-generating-station-unit,,,,,2026-10-11
+facility-63,owns,meag-power,facilities,plant-vogtle,22.7,"Plant Vogtle is co-owned by Georgia Power, Oglethorpe Power, MEAG Power and Dalton Utilities; the ownership shares are for Units 3 and 4.",,,2026-10-11
+facility-64,owns,oglethorpe-power,facilities,plant-vogtle,30.0,"Plant Vogtle is co-owned by Georgia Power, Oglethorpe Power, MEAG Power and Dalton Utilities; the ownership shares are for Units 3 and 4.",,,2026-10-11
+facility-65,owns,old-dominion-electric-cooperative,facilities,north-anna-power-station,11.6,,,,2026-10-11
+facility-66,owns,us-department-of-energy,facilities,american-centrifuge-plant,,,,,2026-10-11
+facility-69,operates,entergy-nuclear-operations-inc,facilities,arkansas-nuclear-1,,,,,2026-10-12
+facility-70,operates,entergy-nuclear-operations-inc,facilities,arkansas-nuclear-2,,,,,2026-10-12
+facility-71,operates,vistra-corporation,facilities,beaver-valley-1,,,,,2026-10-12
+facility-72,operates,vistra-corporation,facilities,beaver-valley-2,,,,,2026-10-12
+facility-73,operates,constellation-energy,facilities,braidwood-1,,,,,2026-10-12
+facility-74,operates,constellation-energy,facilities,braidwood-2,,,,,2026-10-12
+facility-75,operates,tennessee-valley-authority,facilities,browns-ferry-1,,,,,2026-10-12
+facility-76,operates,tennessee-valley-authority,facilities,browns-ferry-2,,,,,2026-10-12
+facility-77,operates,tennessee-valley-authority,facilities,browns-ferry-3,,,,,2026-10-12
+facility-78,operates,duke-energy,facilities,brunswick-1,,,,,2026-10-12
+facility-79,operates,duke-energy,facilities,brunswick-2,,,,,2026-10-12
+facility-80,operates,constellation-energy,facilities,byron-1,,,,,2026-10-12
+facility-81,operates,constellation-energy,facilities,byron-2,,,,,2026-10-12
+facility-82,operates,ameren-ue,facilities,callaway-unit,,,,,2026-10-12
+facility-83,operates,constellation-energy,facilities,calvert-cliffs-1,,,,,2026-10-12
+facility-84,operates,constellation-energy,facilities,calvert-cliffs-2,,,,,2026-10-12
+facility-85,operates,duke-energy,facilities,catawba-1,,,,,2026-10-12
+facility-86,operates,duke-energy,facilities,catawba-2,,,,,2026-10-12
+facility-87,operates,constellation-energy,facilities,clinton,,,,,2026-10-12
+facility-88,operates,vistra-corporation,facilities,comanche-peak-1,,,,,2026-10-12
+facility-89,operates,vistra-corporation,facilities,comanche-peak-2,,,,,2026-10-12
+facility-90,operates,nebraska-public-power-district,facilities,cooper,,,,,2026-10-12
+facility-91,operates,indiana-michigan-power-co,facilities,d-c-cook-1,,,,,2026-10-12
+facility-92,operates,indiana-michigan-power-co,facilities,d-c-cook-2,,,,,2026-10-12
+facility-93,operates,energy-harbor-nuclear-corp,facilities,davis-besse-unit,,,,,2026-10-12
+facility-94,operates,pacific-gas-electric-co,facilities,diablo-canyon-1,,,,,2026-10-12
+facility-95,operates,pacific-gas-electric-co,facilities,diablo-canyon-2,,,,,2026-10-12
+facility-96,operates,constellation-energy,facilities,dresden-2,,,,,2026-10-12
+facility-97,operates,constellation-energy,facilities,dresden-3,,,,,2026-10-12
+facility-98,operates,dte-electric-company,facilities,fermi-2,,,,,2026-10-12
+facility-99,operates,constellation-energy,facilities,fitzpatrick,,,,,2026-10-12
+facility-100,operates,constellation-energy,facilities,ginna,,,,,2026-10-12
+facility-101,operates,entergy-nuclear-operations-inc,facilities,grand-gulf-1,,,,,2026-10-12
+facility-102,operates,pseg-nuclear-llc,facilities,hope-creek-1,,,,,2026-10-12
+facility-103,operates,constellation-energy,facilities,la-salle-1,,,,,2026-10-12
+facility-104,operates,constellation-energy,facilities,la-salle-2,,,,,2026-10-12
+facility-105,operates,constellation-energy,facilities,limerick-1,,,,,2026-10-12
+facility-106,operates,constellation-energy,facilities,limerick-2,,,,,2026-10-12
+facility-107,operates,duke-energy,facilities,mcguire-1,,,,,2026-10-12
+facility-108,operates,duke-energy,facilities,mcguire-2,,,,,2026-10-12
+facility-109,operates,dominion-energy,facilities,millstone-2,,,,,2026-10-12
+facility-110,operates,dominion-energy,facilities,millstone-3,,,,,2026-10-12
+facility-111,operates,northern-states-power-company-minnesota,facilities,monticello,,,,,2026-10-12
+facility-112,operates,constellation-energy,facilities,nine-mile-point-1,,,,,2026-10-12
+facility-113,operates,constellation-energy,facilities,nine-mile-point-2,,,,,2026-10-12
+facility-114,operates,dominion-energy,facilities,north-anna-1,,,,,2026-10-12
+facility-115,operates,dominion-energy,facilities,north-anna-2,,,,,2026-10-12
+facility-116,operates,duke-energy,facilities,oconee-1,,,,,2026-10-12
+facility-117,operates,duke-energy,facilities,oconee-2,,,,,2026-10-12
+facility-118,operates,duke-energy,facilities,oconee-3,,,,,2026-10-12
+facility-119,operates,arizona-public-service-co,facilities,palo-verde-1,,,,,2026-10-12
+facility-120,operates,arizona-public-service-co,facilities,palo-verde-2,,,,,2026-10-12
+facility-121,operates,arizona-public-service-co,facilities,palo-verde-3,,,,,2026-10-12
+facility-122,operates,constellation-energy,facilities,peach-bottom-2,,,,,2026-10-12
+facility-123,operates,constellation-energy,facilities,peach-bottom-3,,,,,2026-10-12
+facility-124,operates,firstenergy-nuclear-operating-co,facilities,perry-1,,,,,2026-10-12
+facility-125,operates,nextera-energy,facilities,point-beach-1,,,,,2026-10-12
+facility-126,operates,nextera-energy,facilities,point-beach-2,,,,,2026-10-12
+facility-127,operates,northern-states-power-company-minnesota,facilities,prairie-island-1,,,,,2026-10-12
+facility-128,operates,northern-states-power-company-minnesota,facilities,prairie-island-2,,,,,2026-10-12
+facility-129,operates,constellation-energy,facilities,quad-cities-1,,,,,2026-10-12
+facility-130,operates,constellation-energy,facilities,quad-cities-2,,,,,2026-10-12
+facility-131,operates,entergy-nuclear-operations-inc,facilities,river-bend-1,,,,,2026-10-12
+facility-132,operates,duke-energy,facilities,robinson-2,,,,,2026-10-12
+facility-133,operates,florida-power-light-co,facilities,saint-lucie-1,,,,,2026-10-12
+facility-134,operates,florida-power-light-co,facilities,saint-lucie-2,,,,,2026-10-12
+facility-135,operates,pseg-nuclear-llc,facilities,salem-1,,,,,2026-10-12
+facility-136,operates,pseg-nuclear-llc,facilities,salem-2,,,,,2026-10-12
+facility-137,operates,nextera-energy,facilities,seabrook-1,,,,,2026-10-12
+facility-138,operates,tennessee-valley-authority,facilities,sequoyah-1,,,,,2026-10-12
+facility-139,operates,tennessee-valley-authority,facilities,sequoyah-2,,,,,2026-10-12
+facility-140,operates,duke-energy,facilities,shearon-harris-1,,,,,2026-10-12
+facility-141,operates,stp-nuclear-operating-co,facilities,south-texas-1,,,,,2026-10-12
+facility-142,operates,stp-nuclear-operating-co,facilities,south-texas-2,,,,,2026-10-12
+facility-143,operates,south-carolina-electric-gas-co,facilities,summer,,,,,2026-10-12
+facility-144,operates,dominion-energy,facilities,surry-1,,,,,2026-10-12
+facility-145,operates,dominion-energy,facilities,surry-2,,,,,2026-10-12
+facility-146,operates,susquehanna-nuclear-llc,facilities,susquehanna-1,,,,,2026-10-12
+facility-147,operates,susquehanna-nuclear-llc,facilities,susquehanna-2,,,,,2026-10-12
+facility-148,operates,florida-power-light-co,facilities,turkey-point-3,,,,,2026-10-12
+facility-149,operates,florida-power-light-co,facilities,turkey-point-4,,,,,2026-10-12
+facility-150,operates,entergy-nuclear-operations-inc,facilities,waterford-3-unit,,,,,2026-10-12
+facility-151,operates,tennessee-valley-authority,facilities,watts-bar-1,,,,,2026-10-12
+facility-152,operates,tennessee-valley-authority,facilities,watts-bar-2,,,,,2026-10-12
+facility-153,operates,wolf-creek-nuclear-operating-corp,facilities,wolf-creek-1,,,,,2026-10-12
+facility-154,operates,tennessee-valley-authority,facilities,browns-ferry,,,,,2026-10-12
+facility-155,operates,florida-power-light-co,facilities,turkey-point,,,,,2026-10-12
+facility-156,operates,constellation-energy,facilities,dresden-generating-station,,,,,2026-10-12
+facility-157,operates,constellation-energy,facilities,quad-cities-generating-station,,,,,2026-10-12
+facility-158,operates,dte-electric-company,facilities,fermi,,,,,2026-10-12
+facility-159,operates,pseg-nuclear-llc,facilities,pseg-salem-generating-station,,,,,2026-10-12
+facility-160,operates,constellation-energy,facilities,nine-mile-point-nuclear-station,,,,,2026-10-12
+facility-161,operates,constellation-energy,facilities,peach-bottom,,,,,2026-10-12
+facility-162,operates,duke-energy,facilities,oconee,,,,,2026-10-12
+facility-164,operates,nextera-energy,facilities,point-beach-nuclear-plant,,,,,2026-10-12
+facility-165,operates,indiana-michigan-power-co,facilities,donald-c-cook,,,,,2026-10-12
+facility-167,operates,arizona-public-service-co,facilities,palo-verde,,,,,2026-10-12
+facility-168,operates,constellation-energy,facilities,calvert-cliffs-nuclear-power-plant,,,,,2026-10-12
+facility-169,operates,energy-harbor-nuclear-corp,facilities,perry,,,,,2026-10-12
+facility-170,operates,constellation-energy,facilities,braidwood-generation-station,,,,,2026-10-12
+facility-171,operates,constellation-energy,facilities,byron-generating-station,,,,,2026-10-12
+facility-172,operates,constellation-energy,facilities,lasalle-generating-station,,,,,2026-10-12
+facility-173,operates,duke-energy,facilities,catawba,,,,,2026-10-12
+facility-174,operates,duke-energy,facilities,mcguire,,,,,2026-10-12
+facility-176,operates,florida-power-light-co,facilities,st-lucie,,,,,2026-10-12
+facility-179,operates,pacific-gas-electric-co,facilities,diablo-canyon,,,,,2026-10-12
+facility-181,operates,constellation-energy,facilities,limerick,,,,,2026-10-12
+facility-182,operates,constellation-energy,facilities,james-a-fitzpatrick,,,,,2026-10-12
+facility-183,operates,nextera-energy,facilities,seabrook,,,,,2026-10-12
+facility-184,operates,constellation-energy,facilities,r-e-ginna-nuclear-power-plant,,,,,2026-10-12
+facility-186,operates,energy-harbor-nuclear-corp,facilities,davis-besse,,,,,2026-10-12
+facility-187,operates,tennessee-valley-authority,facilities,sequoyah,,,,,2026-10-12
+facility-189,operates,stp-nuclear-operating-co,facilities,south-texas-project,,,,,2026-10-12
+facility-190,operates,tennessee-valley-authority,facilities,watts-bar-nuclear-plant,,,,,2026-10-12
+facility-191,operates,constellation-energy,facilities,crane-clean-energy-center,,,,,2026-10-12
+facility-192,operates,nebraska-public-power-district,facilities,cooper-nuclear-station,,,,,2026-10-12
+facility-193,operates,entergy-nuclear-operations-inc,facilities,arkansas-nuclear-one,,,,,2026-10-12
+facility-194,operates,southern-nuclear-operating-co,facilities,farley-1,,,,,2026-10-13
+facility-195,operates,southern-nuclear-operating-co,facilities,farley-2,,,,,2026-10-13
+facility-196,operates,southern-nuclear-operating-co,facilities,hatch-1,,,,,2026-10-13
+facility-197,operates,southern-nuclear-operating-co,facilities,hatch-2,,,,,2026-10-13
+facility-198,operates,holtec-international,facilities,palisades-unit,,,,,2026-10-13
+facility-199,operates,southern-nuclear-operating-co,facilities,vogtle-1,,,,,2026-10-13
+facility-200,operates,southern-nuclear-operating-co,facilities,vogtle-2,,,,,2026-10-13
+facility-201,operates,southern-nuclear-operating-co,facilities,vogtle-3,,,,,2026-10-13
+facility-202,operates,southern-nuclear-operating-co,facilities,vogtle-4,,,,,2026-10-13
+facility-203,offtakes_from,amazon,facilities,comanche-peak,,,,,2026-10-16
+facility-204,offtakes_from,amazon,facilities,calvert-cliffs-nuclear-power-plant,,,,,2026-10-16
+facility-205,offtakes_from,google,facilities,duane-arnold-energy-center,,,,,2026-10-16
+facility-206,offtakes_from,meta-platforms,facilities,perry,,,,,2026-10-16
+facility-207,offtakes_from,meta-platforms,facilities,davis-besse,,,,,2026-10-16
+facility-208,offtakes_from,meta-platforms,facilities,beaver-valley,,,,,2026-10-16
+facility-209,offtakes_from,oracle,facilities,point-beach-nuclear-plant,,"Planned subscription to part of the plant's output, pending Wisconsin PSC approval (Oct 2026).",,,2026-10-16
+facility-217,operates,constellation-energy,facilities,crane-1,,,,,2026-10-20
+facility-218,owns,constellation-energy,facilities,crane-1,,,,,2026-10-20
+facility-219,operates,adp-cr3,facilities,crystal-river-3,,,,,2026-10-21
+facility-220,operates,nextera-energy,facilities,duane-arnold-1,,,,,2026-10-21
+facility-221,owns,omaha-public-power-district,facilities,fort-calhoun,,,,,2026-10-20
+facility-222,operates,northstar-vallecitos-llc-nsv,facilities,general-electric-co-esada-vallecitos-experimental-superheat-reactor-evesr,,,,,2026-10-21
+facility-223,owns,holtec-international,facilities,indian-point-2,,,,,2026-10-20
+facility-224,owns,holtec-international,facilities,indian-point-3,,Licensed owner: NRC approved the transfer to Holtec in November 2020.,,,2026-10-24
+facility-225,operates,kewaunee-solutions-inc,facilities,kewaunee,,,,,2026-10-21
+facility-226,owns,oyster-creek-environmental-protection-llc-ocep,facilities,oyster-creek,,Licensed owner; NRC says the transfer became effective on 1 July 2019.,,,2026-10-21
+facility-227,owns,holtec-international,facilities,pilgrim-nuclear-power-station,,,,,2026-10-20
+facility-228,operates,tmi-2-solutions,facilities,three-mile-island-2,,,,,2026-10-21
+facility-229,owns,alabama-power,facilities,joseph-m-farley,,,,,2026-10-19
+facility-230,owns,constellation-energy,facilities,calvert-cliffs-nuclear-power-plant,,,,,2026-10-20
+facility-231,owns,constellation-energy,facilities,braidwood-generation-station,,,,,2026-10-20
+facility-232,owns,constellation-energy,facilities,byron-generating-station,,,,,2026-10-20
+facility-233,owns,constellation-energy,facilities,dresden-generating-station,,,,,2026-10-20
+facility-234,owns,constellation-energy,facilities,james-a-fitzpatrick,,,,,2026-10-20
+facility-235,owns,constellation-energy,facilities,lasalle-generating-station,,,,,2026-10-20
+facility-236,owns,constellation-energy,facilities,limerick,,,,,2026-10-20
+facility-237,owns,constellation-energy,facilities,r-e-ginna-nuclear-power-plant,,,,,2026-10-20
+facility-238,owns,nextera-energy,facilities,point-beach-nuclear-plant,,,,,2026-10-20
+facility-239,owns,tennessee-valley-authority,facilities,browns-ferry,,,,,2026-10-20
+facility-243,owns,dominion-energy,facilities,millstone-1,,,,,2026-10-21
+facility-244,operates,holtec-decommissioning-international,facilities,pilgrim-nuclear-power-station,,,,,2026-10-21
+facility-245,operates,holtec-decommissioning-international,facilities,indian-point-2,,Licensed operator: NRC approved the transfer to HDI in November 2020.,,,2026-10-24
+facility-246,operates,holtec-decommissioning-international,facilities,indian-point-3,,Licensed operator: NRC approved the transfer to HDI in November 2020.,,,2026-10-24
+facility-247,operates,holtec-decommissioning-international,facilities,oyster-creek,,,,,2026-10-21
+facility-248,operates,southern-california-edison,facilities,san-onofre-1,,,,,2026-10-21
+facility-249,operates,southern-california-edison,facilities,san-onofre-2,,,,,2026-10-21
+facility-250,operates,southern-california-edison,facilities,san-onofre-3,,,,,2026-10-21
+facility-251,operates,northstar-group-services,facilities,vermont-yankee,,NRC issued an order approving the transfer of the license to NorthStar in October 2018.,,,2026-10-21
+facility-252,vendor_for,commonwealth-fusion-systems,facilities,sparc,,"CFS is building this demonstration tokamak at its Devens campus. The page doesn't say who operates it, so no operator link.",,,2026-10-24
+facility-253,owns,duke-energy-florida,facilities,crystal-river-3,,NRC says Duke remains the licensed owner of the plant after the 2020 license transfer to ADP.,,,2026-10-24
+facility-254,offtakes_from,eni,facilities,fall-line-fusion-power-station,,"Signed PPA (Sep 2025): worth more than $1 billion, for power from CFS's first 400 MW ARC fusion plant in Chesterfield County, Virginia, expected on the grid in the early 2030s. The plant is not built yet.",,,2026-10-24
+facility-255,vendor_for,babcock-wilcox,facilities,arkansas-nuclear-1,,,,,2026-10-24
+facility-256,vendor_for,westinghouse-electric-company,facilities,arkansas-nuclear-2,,,,,2026-10-24
+facility-257,vendor_for,westinghouse-electric-company,facilities,beaver-valley-1,,,,,2026-10-24
+facility-258,vendor_for,westinghouse-electric-company,facilities,beaver-valley-2,,,,,2026-10-24
+facility-259,vendor_for,westinghouse-electric-company,facilities,braidwood-1,,,,,2026-10-24
+facility-260,vendor_for,westinghouse-electric-company,facilities,braidwood-2,,,,,2026-10-24
+facility-261,vendor_for,westinghouse-electric-company,facilities,byron-1,,,,,2026-10-24
+facility-262,vendor_for,westinghouse-electric-company,facilities,byron-2,,,,,2026-10-24
+facility-263,vendor_for,westinghouse-electric-company,facilities,callaway-unit,,,,,2026-10-24
+facility-264,vendor_for,westinghouse-electric-company,facilities,calvert-cliffs-1,,,,,2026-10-24
+facility-265,vendor_for,westinghouse-electric-company,facilities,calvert-cliffs-2,,,,,2026-10-24
+facility-266,vendor_for,westinghouse-electric-company,facilities,catawba-1,,,,,2026-10-24
+facility-267,vendor_for,westinghouse-electric-company,facilities,catawba-2,,,,,2026-10-24
+facility-269,operates,urenco,facilities,louisiana-energy-services-les,,NRC lists the licensee for this operational facility.,,,2026-10-24
+facility-270,operates,bwxt,facilities,bwxt,,NRC lists the licensee for this operational facility.,,,2026-10-24
+facility-271,operates,framatome,facilities,framatome,,NRC lists the licensee for this operational facility.,,,2026-10-24
+facility-272,operates,global-nuclear-fuel-americas,facilities,gnf-a,,NRC lists the licensee for this operational facility.,,,2026-10-24
+facility-273,operates,westinghouse-electric-company,facilities,westinghouse,,NRC lists the licensee for this operational facility.,,,2026-10-24
+facility-274,vendor_for,ge-vernova,facilities,browns-ferry-1,,NRC lists General Electric (now GE Vernova) as the reactor vendor.,,,2026-10-25
+facility-275,vendor_for,ge-vernova,facilities,browns-ferry-2,,NRC lists General Electric (now GE Vernova) as the reactor vendor.,,,2026-10-25
+facility-276,vendor_for,ge-vernova,facilities,browns-ferry-3,,NRC lists General Electric (now GE Vernova) as the reactor vendor.,,,2026-10-25
+facility-277,vendor_for,ge-vernova,facilities,brunswick-1,,NRC lists General Electric (now GE Vernova) as the reactor vendor.,,,2026-10-25
+facility-278,vendor_for,ge-vernova,facilities,brunswick-2,,,,,2026-10-24
+facility-279,vendor_for,ge-vernova,facilities,clinton,,,,,2026-10-24
+facility-280,vendor_for,ge-vernova,facilities,columbia-generating-station-unit,,,,,2026-10-24
+facility-281,vendor_for,westinghouse-electric-company,facilities,comanche-peak-1,,,,,2026-10-26
+facility-282,vendor_for,westinghouse-electric-company,facilities,comanche-peak-2,,,,,2026-10-26
+facility-283,vendor_for,westinghouse-electric-company,facilities,d-c-cook-1,,,,,2026-10-26
+facility-284,vendor_for,westinghouse-electric-company,facilities,d-c-cook-2,,,,,2026-10-26
+facility-285,vendor_for,babcock-wilcox,facilities,davis-besse-unit,,,,,2026-10-26
+facility-286,vendor_for,westinghouse-electric-company,facilities,diablo-canyon-1,,,,,2026-10-26
+facility-287,vendor_for,westinghouse-electric-company,facilities,diablo-canyon-2,,,,,2026-10-26
+facility-288,vendor_for,ge-vernova,facilities,dresden-2,,,,,2026-10-26
+facility-289,vendor_for,ge-vernova,facilities,dresden-3,,,,,2026-10-26
+facility-290,vendor_for,westinghouse-electric-company,facilities,farley-1,,,,,2026-10-26
+facility-291,vendor_for,westinghouse-electric-company,facilities,farley-2,,,,,2026-10-26
+facility-292,vendor_for,ge-vernova,facilities,fermi-2,,,,,2026-10-26
+facility-293,vendor_for,ge-vernova,facilities,fitzpatrick,,,,,2026-10-26
+facility-294,vendor_for,westinghouse-electric-company,facilities,ginna,,,,,2026-10-26
+facility-295,vendor_for,ge-vernova,facilities,grand-gulf-1,,,,,2026-10-26
+facility-296,vendor_for,ge-vernova,facilities,hatch-1,,,,,2026-10-26
+facility-297,vendor_for,ge-vernova,facilities,hatch-2,,,,,2026-10-26
+facility-298,vendor_for,ge-vernova,facilities,hope-creek-1,,,,,2026-10-26
+facility-299,vendor_for,ge-vernova,facilities,la-salle-1,,,,,2026-10-26
+facility-300,operates,nuclear-fuel-services,facilities,nfs,,NRC lists the licensee; status 'Operating / Partial Decommissioning' (part of the site is being decommissioned).,,,2026-10-25
+facility-303,vendor_for,ge-vernova,facilities,la-salle-2,,,,,2026-10-26
+facility-304,vendor_for,ge-vernova,facilities,limerick-1,,,,,2026-10-26
+facility-305,vendor_for,ge-vernova,facilities,limerick-2,,,,,2026-10-26
+facility-306,vendor_for,westinghouse-electric-company,facilities,mcguire-1,,,,,2026-10-26
+facility-307,vendor_for,westinghouse-electric-company,facilities,mcguire-2,,,,,2026-10-26
+facility-308,vendor_for,westinghouse-electric-company,facilities,millstone-2,,,,,2026-10-26
+facility-309,vendor_for,westinghouse-electric-company,facilities,millstone-3,,,,,2026-10-26
+facility-310,vendor_for,ge-vernova,facilities,monticello,,,,,2026-10-26
+facility-311,vendor_for,ge-vernova,facilities,nine-mile-point-1,,,,,2026-10-26
+facility-312,vendor_for,ge-vernova,facilities,nine-mile-point-2,,,,,2026-10-26
+facility-313,vendor_for,westinghouse-electric-company,facilities,north-anna-1,,,,,2026-10-26
+facility-314,vendor_for,westinghouse-electric-company,facilities,north-anna-2,,,,,2026-10-26
+facility-315,vendor_for,babcock-wilcox,facilities,oconee-1,,,,,2026-10-26
+facility-316,vendor_for,babcock-wilcox,facilities,oconee-2,,,,,2026-10-26
+facility-317,vendor_for,babcock-wilcox,facilities,oconee-3,,,,,2026-10-26
+facility-318,vendor_for,westinghouse-electric-company,facilities,palisades-unit,,,,,2026-10-26
+facility-319,vendor_for,westinghouse-electric-company,facilities,palo-verde-1,,,,,2026-10-26
+facility-320,vendor_for,westinghouse-electric-company,facilities,palo-verde-2,,,,,2026-10-26
+facility-321,vendor_for,westinghouse-electric-company,facilities,palo-verde-3,,,,,2026-10-26
+facility-322,vendor_for,ge-vernova,facilities,peach-bottom-2,,,,,2026-10-26

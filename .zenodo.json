@@ -1,0 +1,23 @@
+{
+  "title": "Nuclear Directory: US nuclear supply chain dataset",
+  "upload_type": "dataset",
+  "version": "2026.11",
+  "publication_date": "2026-10-27",
+  "description": "Every published fact in Nuclear Directory (https://nuclear-directory.org): companies and facilities of the US nuclear industry and the links between them, with the public documents each fact comes from. This licence covers the data in this repository. The website's code is not covered.",
+  "creators": [
+    {
+      "name": "Oladokun, Tosin",
+      "orcid": "0009-0006-0500-060X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "nuclear energy",
+    "nuclear industry",
+    "supply chain",
+    "United States",
+    "nuclear power plants",
+    "companies"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": "2026.11",
+  "released_on": "2026-10-27",
+  "doi": null,
+  "concept_doi": null,
+  "counts": {
+    "companies": 157,
+    "facilities": 211,
+    "relationships": 411,
+    "sources": 420,
+    "evidence": 1582
+  },
+  "files": {
+    "companies": {
+      "csv": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/companies.csv",
+      "json": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/companies.json"
+    },
+    "facilities": {
+      "csv": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/facilities.csv",
+      "json": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/facilities.json"
+    },
+    "relationships": {
+      "csv": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/relationships.csv",
+      "json": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/relationships.json"
+    },
+    "sources": {
+      "csv": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/sources.csv",
+      "json": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/sources.json"
+    },
+    "evidence": {
+      "csv": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/evidence.csv",
+      "json": "https://raw.githubusercontent.com/tosinoladokun/nuclear-directory-data/v2026.11/evidence.json"
+    }
+  }
+}

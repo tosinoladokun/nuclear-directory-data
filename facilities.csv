@@ -1,0 +1,212 @@
+slug,name,level,site_slug,facility_type,status,technology,reactor_type,capacity_mw,nrc_docket,eia_plant_id,city,state,country_code,latitude,longitude,checked_on,url
+advanced-test-reactor,Advanced Test Reactor,site,,research_reactor,operating,,,,,,,ID,US,,,2026-10-10,https://nuclear-directory.org/plants/advanced-test-reactor
+american-centrifuge-plant,American Centrifuge Plant,site,,enrichment,operating,,,,,,Piketon,OH,US,,,2026-10-10,https://nuclear-directory.org/plants/american-centrifuge-plant
+american-centrifuge-plant-acp,American Centrifuge Plant (ACP),unit,american-centrifuge-plant,enrichment,,,,,07007004,,Piketon,OH,US,,,2026-10-24,https://nuclear-directory.org/plants/american-centrifuge-plant
+arkansas-nuclear-1,Arkansas Nuclear 1,unit,arkansas-nuclear-one,power_reactor,operating,,PWR,825.5,05000313,,,AR,US,35.311,-93.2351,2026-10-12,https://nuclear-directory.org/plants/arkansas-nuclear-one
+arkansas-nuclear-2,Arkansas Nuclear 2,unit,arkansas-nuclear-one,power_reactor,operating,,PWR,981.5,05000368,,,AR,US,35.311,-93.2351,2026-10-12,https://nuclear-directory.org/plants/arkansas-nuclear-one
+arkansas-nuclear-one,Arkansas Nuclear One,site,,power_reactor,operating,,,1807.0,,8055,,AR,US,35.311,-93.2351,2026-10-12,https://nuclear-directory.org/plants/arkansas-nuclear-one
+beaver-valley,Beaver Valley,site,,power_reactor,operating,,,1808.0,,6040,,PA,US,40.6219,-80.4336,2026-10-12,https://nuclear-directory.org/plants/beaver-valley
+beaver-valley-1,Beaver Valley 1,unit,beaver-valley,power_reactor,operating,,PWR,907.0,05000334,,,PA,US,40.6219,-80.4336,2026-10-12,https://nuclear-directory.org/plants/beaver-valley
+beaver-valley-2,Beaver Valley 2,unit,beaver-valley,power_reactor,operating,,PWR,901.0,05000412,,,PA,US,40.6219,-80.4336,2026-10-12,https://nuclear-directory.org/plants/beaver-valley
+braidwood-1,Braidwood 1,unit,braidwood-generation-station,power_reactor,operating,,PWR,1183.0,05000456,,,IL,US,41.2435,-88.2286,2026-10-12,https://nuclear-directory.org/plants/braidwood-generation-station
+braidwood-2,Braidwood 2,unit,braidwood-generation-station,power_reactor,operating,,PWR,1149.3,05000457,,,IL,US,41.2435,-88.2286,2026-10-12,https://nuclear-directory.org/plants/braidwood-generation-station
+braidwood-generation-station,Braidwood Generation Station,site,,power_reactor,operating,,,2332.3,,6022,,IL,US,41.2435,-88.2286,2026-10-12,https://nuclear-directory.org/plants/braidwood-generation-station
+browns-ferry,Browns Ferry,site,,power_reactor,operating,,,3661.7,,46,,AL,US,34.7042,-87.1189,2026-10-12,https://nuclear-directory.org/plants/browns-ferry
+browns-ferry-1,Browns Ferry 1,unit,browns-ferry,power_reactor,operating,,BWR,1227.4,05000259,,,AL,US,34.7042,-87.1189,2026-10-12,https://nuclear-directory.org/plants/browns-ferry
+browns-ferry-2,Browns Ferry 2,unit,browns-ferry,power_reactor,operating,,BWR,1207.7,05000260,,,AL,US,34.7042,-87.1189,2026-10-12,https://nuclear-directory.org/plants/browns-ferry
+browns-ferry-3,Browns Ferry 3,unit,browns-ferry,power_reactor,operating,,BWR,1226.6,05000296,,,AL,US,34.7042,-87.1189,2026-10-12,https://nuclear-directory.org/plants/browns-ferry
+brunswick-1,Brunswick 1,unit,brunswick-nuclear,power_reactor,operating,,BWR,938.0,05000325,,,NC,US,33.9597,-78.0114,2026-10-12,https://nuclear-directory.org/plants/brunswick-nuclear
+brunswick-2,Brunswick 2,unit,brunswick-nuclear,power_reactor,operating,,BWR,932.0,05000324,,,NC,US,33.9597,-78.0114,2026-10-12,https://nuclear-directory.org/plants/brunswick-nuclear
+brunswick-nuclear,Brunswick Nuclear,site,,power_reactor,operating,,,1870.0,,6014,,NC,US,33.9597,-78.0114,2026-10-12,https://nuclear-directory.org/plants/brunswick-nuclear
+bwxt,BWXT,site,,fuel_facility,operating,,,,07000027,,Lynchburg,VA,US,,,2026-10-24,https://nuclear-directory.org/plants/bwxt
+byron-1,Byron 1,unit,byron-generating-station,power_reactor,operating,,PWR,1164.0,05000454,,,IL,US,42.0742,-89.2819,2026-10-12,https://nuclear-directory.org/plants/byron-generating-station
+byron-2,Byron 2,unit,byron-generating-station,power_reactor,operating,,PWR,1136.0,05000455,,,IL,US,42.0742,-89.2819,2026-10-12,https://nuclear-directory.org/plants/byron-generating-station
+byron-generating-station,Byron Generating Station,site,,power_reactor,operating,,,2300.0,,6023,,IL,US,42.0742,-89.2819,2026-10-12,https://nuclear-directory.org/plants/byron-generating-station
+callaway,Callaway,site,,power_reactor,operating,,,1190.0,,6153,,MO,US,38.758919,-91.77884,2026-10-12,https://nuclear-directory.org/plants/callaway
+callaway-unit,Callaway,unit,callaway,power_reactor,operating,,PWR,1190.0,05000483,,,MO,US,38.758919,-91.77884,2026-10-12,https://nuclear-directory.org/plants/callaway
+calvert-cliffs-1,Calvert Cliffs 1,unit,calvert-cliffs-nuclear-power-plant,power_reactor,operating,,PWR,884.2,05000317,,,MD,US,38.4344,-76.4417,2026-10-12,https://nuclear-directory.org/plants/calvert-cliffs-nuclear-power-plant
+calvert-cliffs-2,Calvert Cliffs 2,unit,calvert-cliffs-nuclear-power-plant,power_reactor,operating,,PWR,861.0,05000318,,,MD,US,38.4344,-76.4417,2026-10-12,https://nuclear-directory.org/plants/calvert-cliffs-nuclear-power-plant
+calvert-cliffs-nuclear-power-plant,Calvert Cliffs Nuclear Power Plant,site,,power_reactor,operating,,,1745.2,,6011,,MD,US,38.4344,-76.4417,2026-10-12,https://nuclear-directory.org/plants/calvert-cliffs-nuclear-power-plant
+cascade-advanced-energy-facility,Cascade Advanced Energy Facility,site,,power_reactor,planned,,,,,,,WA,US,,,2026-10-10,https://nuclear-directory.org/plants/cascade-advanced-energy-facility
+catawba,Catawba,site,,power_reactor,operating,,,2310.1,,6036,,SC,US,35.0514,-81.0694,2026-10-12,https://nuclear-directory.org/plants/catawba
+catawba-1,Catawba 1,unit,catawba,power_reactor,operating,,PWR,1160.0,05000413,,,SC,US,35.0514,-81.0694,2026-10-12,https://nuclear-directory.org/plants/catawba
+catawba-2,Catawba 2,unit,catawba,power_reactor,operating,,PWR,1150.1,05000414,,,SC,US,35.0514,-81.0694,2026-10-12,https://nuclear-directory.org/plants/catawba
+clinch-river-nuclear-site-unit-1,Clinch River Nuclear Site Unit 1,site,,power_reactor,planned,,,,,,Oak Ridge,TN,US,,,2026-10-10,https://nuclear-directory.org/plants/clinch-river-nuclear-site-unit-1
+clinton,Clinton,unit,clinton-clean-energy-center,power_reactor,operating,,BWR,1082.9,05000461,,,IL,US,40.1719,-88.8339,2026-10-12,https://nuclear-directory.org/plants/clinton-clean-energy-center
+clinton-clean-energy-center,Clinton Clean Energy Center,site,,power_reactor,operating,,,1082.9,,204,,IL,US,40.1719,-88.8339,2026-10-10,https://nuclear-directory.org/plants/clinton-clean-energy-center
+columbia-generating-station,Columbia Generating Station,site,,power_reactor,operating,,,1151.0,,371,,WA,US,46.4711,-119.3339,2026-10-24,https://nuclear-directory.org/plants/columbia-generating-station
+columbia-generating-station-unit,Columbia Generating Station,unit,columbia-generating-station,power_reactor,operating,,BWR,1151.0,05000397,,,WA,US,46.4711,-119.3339,2026-10-10,https://nuclear-directory.org/plants/columbia-generating-station
+comanche-peak,Comanche Peak,site,,power_reactor,operating,,,2400.0,,6145,,TX,US,32.298365,-97.78552,2026-10-12,https://nuclear-directory.org/plants/comanche-peak
+comanche-peak-1,Comanche Peak 1,unit,comanche-peak,power_reactor,operating,,PWR,1205.0,05000445,,,TX,US,32.298365,-97.78552,2026-10-12,https://nuclear-directory.org/plants/comanche-peak
+comanche-peak-2,Comanche Peak 2,unit,comanche-peak,power_reactor,operating,,PWR,1195.0,05000446,,,TX,US,32.298365,-97.78552,2026-10-12,https://nuclear-directory.org/plants/comanche-peak
+cooper,Cooper,unit,cooper-nuclear-station,power_reactor,operating,,BWR,768.5,05000298,,,NE,US,40.3628,-95.6408,2026-10-12,https://nuclear-directory.org/plants/cooper-nuclear-station
+cooper-nuclear-station,Cooper Nuclear Station,site,,power_reactor,operating,,,768.5,,8036,,NE,US,40.3628,-95.6408,2026-10-12,https://nuclear-directory.org/plants/cooper-nuclear-station
+crane-1,Crane 1,unit,crane-clean-energy-center,power_reactor,decommissioning,,,802.8,05000289,,Middletown,PA,US,40.1515,-76.7232,2026-10-20,https://nuclear-directory.org/plants/crane-clean-energy-center
+crane-clean-energy-center,Crane Clean Energy Center,site,,power_reactor,decommissioning,,,,,8011,,PA,US,40.1515,-76.7232,2026-10-10,https://nuclear-directory.org/plants/crane-clean-energy-center
+crow-butte,Crow Butte,site,,uranium_mine,,,,,,,Chadron,NE,US,,,2026-10-20,https://nuclear-directory.org/plants/crow-butte
+crownpoint,Crownpoint,site,,uranium_mine,,,,,,,Crownpoint,NM,US,,,2026-10-20,https://nuclear-directory.org/plants/crownpoint
+crystal-river-3,Crystal River 3,site,,power_reactor,decommissioning,,,,05000302,,Crystal River,FL,US,,,2026-10-20,https://nuclear-directory.org/plants/crystal-river-3
+d-c-cook-1,D.C. Cook 1,unit,donald-c-cook,power_reactor,operating,,PWR,1009.0,05000315,,,MI,US,41.975604,-86.56521,2026-10-12,https://nuclear-directory.org/plants/donald-c-cook
+d-c-cook-2,D.C. Cook 2,unit,donald-c-cook,power_reactor,operating,,PWR,1168.0,05000316,,,MI,US,41.975604,-86.56521,2026-10-12,https://nuclear-directory.org/plants/donald-c-cook
+davis-besse,Davis Besse,site,,power_reactor,operating,,,894.0,,6149,,OH,US,41.5967,-83.0861,2026-10-12,https://nuclear-directory.org/plants/davis-besse
+davis-besse-unit,Davis-Besse,unit,davis-besse,power_reactor,operating,,PWR,894.0,05000346,,,OH,US,41.5967,-83.0861,2026-10-12,https://nuclear-directory.org/plants/davis-besse
+dewey-burdock,Dewey Burdock,site,,uranium_mine,,,,,,,,SD,US,,,2026-10-20,https://nuclear-directory.org/plants/dewey-burdock
+diablo-canyon,Diablo Canyon,site,,power_reactor,operating,,,2240.0,,6099,,CA,US,35.211536,-120.8555,2026-10-12,https://nuclear-directory.org/plants/diablo-canyon
+diablo-canyon-1,Diablo Canyon 1,unit,diablo-canyon,power_reactor,operating,,PWR,1122.0,05000275,,,CA,US,35.211536,-120.8555,2026-10-12,https://nuclear-directory.org/plants/diablo-canyon
+diablo-canyon-2,Diablo Canyon 2,unit,diablo-canyon,power_reactor,operating,,PWR,1118.0,05000323,,,CA,US,35.211536,-120.8555,2026-10-12,https://nuclear-directory.org/plants/diablo-canyon
+donald-c-cook,Donald C Cook,site,,power_reactor,operating,,,2177.0,,6000,,MI,US,41.975604,-86.56521,2026-10-12,https://nuclear-directory.org/plants/donald-c-cook
+dresden-1,Dresden 1,unit,dresden-generating-station,power_reactor,decommissioning,,,,05000010,,Morris,IL,US,,,2026-10-20,https://nuclear-directory.org/plants/dresden-generating-station
+dresden-2,Dresden 2,unit,dresden-generating-station,power_reactor,operating,,BWR,902.0,05000237,,,IL,US,41.39,-88.27,2026-10-12,https://nuclear-directory.org/plants/dresden-generating-station
+dresden-3,Dresden 3,unit,dresden-generating-station,power_reactor,operating,,BWR,895.0,05000249,,,IL,US,41.39,-88.27,2026-10-12,https://nuclear-directory.org/plants/dresden-generating-station
+dresden-generating-station,Dresden Generating Station,site,,power_reactor,operating,,,1797.0,,869,,IL,US,41.39,-88.27,2026-10-12,https://nuclear-directory.org/plants/dresden-generating-station
+duane-arnold-1,Duane Arnold 1,unit,duane-arnold-energy-center,power_reactor,decommissioning,,,,05000331,,Palo,IA,US,,,2026-10-20,https://nuclear-directory.org/plants/duane-arnold-energy-center
+duane-arnold-energy-center,Duane Arnold Energy Center,site,,power_reactor,decommissioning,,,,,,Palo,IA,US,,,2026-10-16,https://nuclear-directory.org/plants/duane-arnold-energy-center
+edwin-i-hatch,Edwin I Hatch,site,,power_reactor,operating,,,1759.0,,6051,,GA,US,31.9342,-82.3447,2026-10-12,https://nuclear-directory.org/plants/edwin-i-hatch
+fall-line-fusion-power-station,Fall Line Fusion Power Station,site,,fusion_facility,planned,,,,,,,VA,US,,,2026-10-10,https://nuclear-directory.org/plants/fall-line-fusion-power-station
+farley-1,Farley 1,unit,joseph-m-farley,power_reactor,operating,,PWR,895.0,05000348,,,AL,US,31.2231,-85.1116,2026-10-12,https://nuclear-directory.org/plants/joseph-m-farley
+farley-2,Farley 2,unit,joseph-m-farley,power_reactor,operating,,PWR,896.0,05000364,,,AL,US,31.2231,-85.1116,2026-10-12,https://nuclear-directory.org/plants/joseph-m-farley
+fermi,Fermi,site,,power_reactor,operating,,,1141.0,,1729,,MI,US,41.9631,-83.2581,2026-10-12,https://nuclear-directory.org/plants/fermi
+fermi-1,Fermi 1,unit,fermi,power_reactor,decommissioning,,,,05000016,,Newport,MI,US,,,2026-10-20,https://nuclear-directory.org/plants/fermi
+fermi-2,Fermi 2,unit,fermi,power_reactor,operating,,BWR,1141.0,05000341,,,MI,US,41.9631,-83.2581,2026-10-12,https://nuclear-directory.org/plants/fermi
+fitzpatrick,FitzPatrick,unit,james-a-fitzpatrick,power_reactor,operating,,BWR,844.0,05000333,,,NY,US,43.52139,-76.40839,2026-10-12,https://nuclear-directory.org/plants/james-a-fitzpatrick
+fort-calhoun,Fort Calhoun,site,,power_reactor,decommissioning,,,,05000285,,Fort Calhoun,NE,US,,,2026-10-20,https://nuclear-directory.org/plants/fort-calhoun
+framatome,Framatome,site,,fuel_facility,operating,,,,07001257,,Richland,WA,US,,,2026-10-24,https://nuclear-directory.org/plants/framatome
+general-electric-co-esada-vallecitos-experimental-superheat-reactor-evesr,General Electric Co. – ESADA Vallecitos Experimental Superheat Reactor (EVESR),site,,power_reactor,decommissioning,,,,05000183,,Sunol,CA,US,,,2026-10-20,https://nuclear-directory.org/plants/general-electric-co-esada-vallecitos-experimental-superheat-reactor-evesr
+ginna,Ginna,unit,r-e-ginna-nuclear-power-plant,power_reactor,operating,,PWR,578.8,05000244,,,NY,US,43.2777,-77.3099,2026-10-12,https://nuclear-directory.org/plants/r-e-ginna-nuclear-power-plant
+gnf-a,GNF-A,site,,fuel_facility,operating,,,,07001113,,Wilmington,NC,US,,,2026-10-24,https://nuclear-directory.org/plants/gnf-a
+grand-gulf,Grand Gulf,site,,power_reactor,operating,,,1396.7,,6072,,MS,US,32.0081,-91.0478,2026-10-12,https://nuclear-directory.org/plants/grand-gulf
+grand-gulf-1,Grand Gulf 1,unit,grand-gulf,power_reactor,operating,,BWR,1396.7,05000416,,,MS,US,32.0081,-91.0478,2026-10-12,https://nuclear-directory.org/plants/grand-gulf
+h-b-robinson,H B Robinson,site,,power_reactor,operating,,,759.0,,3251,,SC,US,34.4017,-80.1589,2026-10-12,https://nuclear-directory.org/plants/h-b-robinson
+harris-nc,Harris (NC),site,,power_reactor,operating,,,964.0,,6015,,NC,US,35.6334,-78.9556,2026-10-12,https://nuclear-directory.org/plants/harris-nc
+hatch-1,Hatch 1,unit,edwin-i-hatch,power_reactor,operating,,BWR,876.0,05000321,,,GA,US,31.9342,-82.3447,2026-10-12,https://nuclear-directory.org/plants/edwin-i-hatch
+hatch-2,Hatch 2,unit,edwin-i-hatch,power_reactor,operating,,BWR,883.0,05000366,,,GA,US,31.9342,-82.3447,2026-10-12,https://nuclear-directory.org/plants/edwin-i-hatch
+hermes-2,Hermes 2,site,,power_reactor,under_construction,,,,,,Oak Ridge,TN,US,,,2026-10-10,https://nuclear-directory.org/plants/hermes-2
+hermes-low-power-demonstration-reactor,Hermes Low-Power Demonstration Reactor,site,,research_reactor,under_construction,,,,,,Oak Ridge,TN,US,,,2026-10-10,https://nuclear-directory.org/plants/hermes-low-power-demonstration-reactor
+high-flux-isotope-reactor,High Flux Isotope Reactor,site,,research_reactor,operating,,,,,,Oak Ridge,TN,US,,,2026-10-10,https://nuclear-directory.org/plants/high-flux-isotope-reactor
+hope-creek-1,Hope Creek 1,unit,pseg-hope-creek-generating-station,power_reactor,operating,,BWR,1174.2,05000354,,,NJ,US,39.4666,-75.5377,2026-10-12,https://nuclear-directory.org/plants/pseg-hope-creek-generating-station
+indian-point,Indian Point,site,,power_reactor,decommissioning,,,,,,Buchanan,NY,US,,,2026-10-20,https://nuclear-directory.org/plants/indian-point
+indian-point-1,Indian Point 1,unit,indian-point,power_reactor,decommissioning,,,,05000003,,Buchanan,NY,US,,,2026-10-20,https://nuclear-directory.org/plants/indian-point
+indian-point-2,Indian Point 2,unit,indian-point,power_reactor,decommissioning,,,,05000247,,Buchanan,NY,US,,,2026-10-20,https://nuclear-directory.org/plants/indian-point
+indian-point-3,Indian Point 3,unit,indian-point,power_reactor,decommissioning,,,,05000286,,Buchanan,NY,US,,,2026-10-20,https://nuclear-directory.org/plants/indian-point
+infinity-two-fusion-power-plant,Infinity Two fusion power plant,site,,fusion_facility,planned,,,,,,,TN,US,,,2026-10-10,https://nuclear-directory.org/plants/infinity-two-fusion-power-plant
+international-isotopes,International Isotopes,site,,fuel_facility,,,,,04009086,,Hobbs,NM,US,,,2026-10-26,https://nuclear-directory.org/plants/international-isotopes
+james-a-fitzpatrick,James A Fitzpatrick,site,,power_reactor,operating,,,844.0,,6110,,NY,US,43.52139,-76.40839,2026-10-12,https://nuclear-directory.org/plants/james-a-fitzpatrick
+joseph-m-farley,Joseph M Farley,site,,power_reactor,operating,,,1791.0,,6001,,AL,US,31.2231,-85.1116,2026-10-12,https://nuclear-directory.org/plants/joseph-m-farley
+kairos-power-salt-production-facility,Kairos Power Salt Production Facility,site,,other,under_construction,,,,,,Albuquerque,NM,US,,,2026-10-10,https://nuclear-directory.org/plants/kairos-power-salt-production-facility
+kemmerer-unit-1,Kemmerer Unit 1,site,,power_reactor,under_construction,,,,,,Kemmerer,WY,US,,,2026-10-10,https://nuclear-directory.org/plants/kemmerer-unit-1
+kewaunee,Kewaunee,site,,power_reactor,decommissioning,,,,05000305,,Kewaunee,WI,US,,,2026-10-20,https://nuclear-directory.org/plants/kewaunee
+la-salle-1,La Salle 1,unit,lasalle-generating-station,power_reactor,operating,,BWR,1130.5,05000373,,,IL,US,41.245498,-88.66907,2026-10-12,https://nuclear-directory.org/plants/lasalle-generating-station
+la-salle-2,La Salle 2,unit,lasalle-generating-station,power_reactor,operating,,BWR,1133.9,05000374,,,IL,US,41.245498,-88.66907,2026-10-12,https://nuclear-directory.org/plants/lasalle-generating-station
+lasalle-generating-station,LaSalle Generating Station,site,,power_reactor,operating,,,2264.4,,6026,,IL,US,41.245498,-88.66907,2026-10-12,https://nuclear-directory.org/plants/lasalle-generating-station
+limerick,Limerick,site,,power_reactor,operating,,,2241.8,,6105,,PA,US,40.224303,-75.58744,2026-10-12,https://nuclear-directory.org/plants/limerick
+limerick-1,Limerick 1,unit,limerick,power_reactor,operating,,BWR,1119.7,05000352,,,PA,US,40.224303,-75.58744,2026-10-12,https://nuclear-directory.org/plants/limerick
+limerick-2,Limerick 2,unit,limerick,power_reactor,operating,,BWR,1122.1,05000353,,,PA,US,40.224303,-75.58744,2026-10-12,https://nuclear-directory.org/plants/limerick
+long-mott-generating-station,Long Mott Generating Station,site,,power_reactor,planned,,,,,,Seadrift,TX,US,,,2026-10-10,https://nuclear-directory.org/plants/long-mott-generating-station
+lost-creek-isr-uranium-facility,Lost Creek ISR uranium facility,site,,uranium_mine,operating,,,,,,,WY,US,,,2026-10-10,https://nuclear-directory.org/plants/lost-creek-isr-uranium-facility
+louisiana-energy-services-les,Louisiana Energy Services (LES),unit,urenco-usa-enrichment-facility,enrichment,operating,,,,07003103,,Eunice,NM,US,,,2026-10-24,https://nuclear-directory.org/plants/urenco-usa-enrichment-facility
+mcguire,McGuire,site,,power_reactor,operating,,,2315.6,,6038,,NC,US,35.4331,-80.9486,2026-10-12,https://nuclear-directory.org/plants/mcguire
+mcguire-1,McGuire 1,unit,mcguire,power_reactor,operating,,PWR,1158.0,05000369,,,NC,US,35.4331,-80.9486,2026-10-12,https://nuclear-directory.org/plants/mcguire
+mcguire-2,McGuire 2,unit,mcguire,power_reactor,operating,,PWR,1157.6,05000370,,,NC,US,35.4331,-80.9486,2026-10-12,https://nuclear-directory.org/plants/mcguire
+metropolis-works-uranium-conversion-facility,Metropolis Works Uranium Conversion Facility,site,,fuel_facility,operating,,,,,,Metropolis,IL,US,,,2026-10-10,https://nuclear-directory.org/plants/metropolis-works-uranium-conversion-facility
+millstone,Millstone,site,,power_reactor,operating,,,2108.4,,566,,CT,US,41.3107,-72.1677,2026-10-12,https://nuclear-directory.org/plants/millstone
+millstone-1,Millstone 1,unit,millstone,power_reactor,decommissioning,,,,05000245,,Waterford,CT,US,,,2026-10-20,https://nuclear-directory.org/plants/millstone
+millstone-2,Millstone 2,unit,millstone,power_reactor,operating,,PWR,863.4,05000336,,,CT,US,41.3107,-72.1677,2026-10-12,https://nuclear-directory.org/plants/millstone
+millstone-3,Millstone 3,unit,millstone,power_reactor,operating,,PWR,1245.0,05000423,,,CT,US,41.3107,-72.1677,2026-10-12,https://nuclear-directory.org/plants/millstone
+monticello,Monticello,unit,monticello-nuclear-facility,power_reactor,operating,,BWR,617.0,05000263,,,MN,US,45.3338,-93.8493,2026-10-12,https://nuclear-directory.org/plants/monticello-nuclear-facility
+monticello-nuclear-facility,Monticello Nuclear Facility,site,,power_reactor,operating,,,617.0,,1922,,MN,US,45.3338,-93.8493,2026-10-12,https://nuclear-directory.org/plants/monticello-nuclear-facility
+natrium-fuel-facility,Natrium Fuel Facility,site,,fuel_facility,,,,,,,Wilmington,NC,US,,,2026-10-10,https://nuclear-directory.org/plants/natrium-fuel-facility
+nfs,NFS,site,,fuel_facility,operating,,,,07000143,,Erwin,TN,US,,,2026-10-24,https://nuclear-directory.org/plants/nfs
+nine-mile-point-1,Nine Mile Point 1,unit,nine-mile-point-nuclear-station,power_reactor,operating,,BWR,619.7,05000220,,,NY,US,43.5211,-76.41,2026-10-12,https://nuclear-directory.org/plants/nine-mile-point-nuclear-station
+nine-mile-point-2,Nine Mile Point 2,unit,nine-mile-point-nuclear-station,power_reactor,operating,,BWR,1283.4,05000410,,,NY,US,43.5211,-76.41,2026-10-12,https://nuclear-directory.org/plants/nine-mile-point-nuclear-station
+nine-mile-point-nuclear-station,Nine Mile Point Nuclear Station,site,,power_reactor,operating,,,1903.1,,2589,,NY,US,43.5211,-76.41,2026-10-12,https://nuclear-directory.org/plants/nine-mile-point-nuclear-station
+north-anna-1,North Anna 1,unit,north-anna-power-station,power_reactor,operating,,PWR,948.0,05000338,,,VA,US,38.06,-77.7897,2026-10-12,https://nuclear-directory.org/plants/north-anna-power-station
+north-anna-2,North Anna 2,unit,north-anna-power-station,power_reactor,operating,,PWR,944.0,05000339,,,VA,US,38.06,-77.7897,2026-10-12,https://nuclear-directory.org/plants/north-anna-power-station
+north-anna-power-station,North Anna Power Station,site,,power_reactor,operating,,,1892.0,,6168,,VA,US,38.06,-77.7897,2026-10-10,https://nuclear-directory.org/plants/north-anna-power-station
+nuclear-ship-savannah,Nuclear Ship Savannah,site,,power_reactor,decommissioning,,,,05000238,,Baltimore,MD,US,,,2026-10-20,https://nuclear-directory.org/plants/nuclear-ship-savannah
+oconee,Oconee,site,,power_reactor,operating,,,2599.9,,3265,,SC,US,34.7939,-82.8986,2026-10-12,https://nuclear-directory.org/plants/oconee
+oconee-1,Oconee 1,unit,oconee,power_reactor,operating,,PWR,861.9,05000269,,,SC,US,34.7939,-82.8986,2026-10-12,https://nuclear-directory.org/plants/oconee
+oconee-2,Oconee 2,unit,oconee,power_reactor,operating,,PWR,865.1,05000270,,,SC,US,34.7939,-82.8986,2026-10-12,https://nuclear-directory.org/plants/oconee
+oconee-3,Oconee 3,unit,oconee,power_reactor,operating,,PWR,872.9,05000287,,,SC,US,34.7939,-82.8986,2026-10-12,https://nuclear-directory.org/plants/oconee
+orano-enrichment-usa,Orano Enrichment USA,site,,enrichment,planned,,,,07007038,,Oak Ridge,TN,US,,,2026-10-24,https://nuclear-directory.org/plants/orano-enrichment-usa
+orion-fusion-power-plant,Orion fusion power plant,site,,fusion_facility,under_construction,,,,,,Malaga,WA,US,,,2026-10-10,https://nuclear-directory.org/plants/orion-fusion-power-plant
+oyster-creek,Oyster Creek,site,,power_reactor,decommissioning,,,,05000219,,Forked River,NJ,US,,,2026-10-20,https://nuclear-directory.org/plants/oyster-creek
+palisades,Palisades,site,,power_reactor,not_operating,,,,,1715,,MI,US,42.323,-86.3146,2026-10-12,https://nuclear-directory.org/plants/palisades
+palisades-pioneer-units-1-2,Palisades Pioneer Units 1 & 2,site,,power_reactor,planned,,,,,,Covert,MI,US,,,2026-10-10,https://nuclear-directory.org/plants/palisades-pioneer-units-1-2
+palisades-unit,Palisades,unit,palisades,power_reactor,not_operating,,PWR,768.5,05000255,,,MI,US,42.323,-86.3146,2026-10-12,https://nuclear-directory.org/plants/palisades
+palo-verde,Palo Verde,site,,power_reactor,operating,,,3937.0,,6008,,AZ,US,33.3881,-112.8617,2026-10-12,https://nuclear-directory.org/plants/palo-verde
+palo-verde-1,Palo Verde 1,unit,palo-verde,power_reactor,operating,,PWR,1311.0,05000528,,,AZ,US,33.3881,-112.8617,2026-10-12,https://nuclear-directory.org/plants/palo-verde
+palo-verde-2,Palo Verde 2,unit,palo-verde,power_reactor,operating,,PWR,1314.0,05000529,,,AZ,US,33.3881,-112.8617,2026-10-12,https://nuclear-directory.org/plants/palo-verde
+palo-verde-3,Palo Verde 3,unit,palo-verde,power_reactor,operating,,PWR,1312.0,05000530,,,AZ,US,33.3881,-112.8617,2026-10-12,https://nuclear-directory.org/plants/palo-verde
+peach-bottom,Peach Bottom,site,,power_reactor,operating,,,2549.4,,3166,,PA,US,39.758936,-76.26874,2026-10-12,https://nuclear-directory.org/plants/peach-bottom
+peach-bottom-1,Peach Bottom 1,unit,peach-bottom,power_reactor,decommissioning,,,,05000171,,Delta,PA,US,,,2026-10-20,https://nuclear-directory.org/plants/peach-bottom
+peach-bottom-2,Peach Bottom 2,unit,peach-bottom,power_reactor,operating,,BWR,1264.7,05000277,,,PA,US,39.758936,-76.26874,2026-10-12,https://nuclear-directory.org/plants/peach-bottom
+peach-bottom-3,Peach Bottom 3,unit,peach-bottom,power_reactor,operating,,BWR,1284.7,05000278,,,PA,US,39.758936,-76.26874,2026-10-12,https://nuclear-directory.org/plants/peach-bottom
+perry,Perry,site,,power_reactor,operating,,,1240.0,,6020,,OH,US,41.8006,-81.1439,2026-10-12,https://nuclear-directory.org/plants/perry
+perry-1,Perry 1,unit,perry,power_reactor,operating,,BWR,1240.0,05000440,,,OH,US,41.8006,-81.1439,2026-10-12,https://nuclear-directory.org/plants/perry
+pilgrim-nuclear-power-station,Pilgrim Nuclear Power Station,site,,power_reactor,decommissioning,,,,05000293,,Plymouth,MA,US,,,2026-10-20,https://nuclear-directory.org/plants/pilgrim-nuclear-power-station
+pinyon-plain-mine,Pinyon Plain Mine,site,,uranium_mine,operating,,,,,,,AZ,US,,,2026-10-10,https://nuclear-directory.org/plants/pinyon-plain-mine
+plant-vogtle,Plant Vogtle,site,,power_reactor,operating,,,4530.0,,649,,GA,US,33.1427,-81.7625,2026-10-10,https://nuclear-directory.org/plants/plant-vogtle
+point-beach-1,Point Beach 1,unit,point-beach-nuclear-plant,power_reactor,operating,,PWR,591.3,05000266,,,WI,US,44.2806,-87.5369,2026-10-12,https://nuclear-directory.org/plants/point-beach-nuclear-plant
+point-beach-2,Point Beach 2,unit,point-beach-nuclear-plant,power_reactor,operating,,PWR,598.2,05000301,,,WI,US,44.2806,-87.5369,2026-10-12,https://nuclear-directory.org/plants/point-beach-nuclear-plant
+point-beach-nuclear-plant,Point Beach Nuclear Plant,site,,power_reactor,operating,,,1189.5,,4046,,WI,US,44.2806,-87.5369,2026-10-12,https://nuclear-directory.org/plants/point-beach-nuclear-plant
+prairie-island,Prairie Island,site,,power_reactor,operating,,,1040.0,,1925,,MN,US,44.622,-92.6333,2026-10-12,https://nuclear-directory.org/plants/prairie-island
+prairie-island-1,Prairie Island 1,unit,prairie-island,power_reactor,operating,,PWR,521.0,05000282,,,MN,US,44.622,-92.6333,2026-10-12,https://nuclear-directory.org/plants/prairie-island
+prairie-island-2,Prairie Island 2,unit,prairie-island,power_reactor,operating,,PWR,519.0,05000306,,,MN,US,44.622,-92.6333,2026-10-12,https://nuclear-directory.org/plants/prairie-island
+pseg-hope-creek-generating-station,PSEG Hope Creek Generating Station,site,,power_reactor,operating,,,1174.2,,6118,,NJ,US,39.4666,-75.5377,2026-10-12,https://nuclear-directory.org/plants/pseg-hope-creek-generating-station
+pseg-salem-generating-station,PSEG Salem Generating Station,site,,power_reactor,operating,,,2284.7,,2410,,NJ,US,39.4625,-75.5358,2026-10-12,https://nuclear-directory.org/plants/pseg-salem-generating-station
+quad-cities-1,Quad Cities 1,unit,quad-cities-generating-station,power_reactor,operating,,BWR,908.0,05000254,,,IL,US,41.726111,-90.31028,2026-10-12,https://nuclear-directory.org/plants/quad-cities-generating-station
+quad-cities-2,Quad Cities 2,unit,quad-cities-generating-station,power_reactor,operating,,BWR,911.0,05000265,,,IL,US,41.726111,-90.31028,2026-10-12,https://nuclear-directory.org/plants/quad-cities-generating-station
+quad-cities-generating-station,Quad Cities Generating Station,site,,power_reactor,operating,,,1819.0,,880,,IL,US,41.726111,-90.31028,2026-10-12,https://nuclear-directory.org/plants/quad-cities-generating-station
+r-e-ginna-nuclear-power-plant,R E Ginna Nuclear Power Plant,site,,power_reactor,operating,,,578.8,,6122,,NY,US,43.2777,-77.3099,2026-10-12,https://nuclear-directory.org/plants/r-e-ginna-nuclear-power-plant
+river-bend,River Bend,site,,power_reactor,operating,,,968.3,,6462,,LA,US,30.757,-91.3327,2026-10-12,https://nuclear-directory.org/plants/river-bend
+river-bend-1,River Bend 1,unit,river-bend,power_reactor,operating,,BWR,968.3,05000458,,,LA,US,30.757,-91.3327,2026-10-12,https://nuclear-directory.org/plants/river-bend
+robinson-2,Robinson 2,unit,h-b-robinson,power_reactor,operating,,PWR,759.0,05000261,,,SC,US,34.4017,-80.1589,2026-10-12,https://nuclear-directory.org/plants/h-b-robinson
+saint-lucie-1,Saint Lucie 1,unit,st-lucie,power_reactor,operating,,PWR,981.0,05000335,,,FL,US,27.348611,-80.24639,2026-10-12,https://nuclear-directory.org/plants/st-lucie
+saint-lucie-2,Saint Lucie 2,unit,st-lucie,power_reactor,operating,,PWR,987.0,05000389,,,FL,US,27.348611,-80.24639,2026-10-12,https://nuclear-directory.org/plants/st-lucie
+salem-1,Salem 1,unit,pseg-salem-generating-station,power_reactor,operating,,PWR,1145.8,05000272,,,NJ,US,39.4625,-75.5358,2026-10-12,https://nuclear-directory.org/plants/pseg-salem-generating-station
+salem-2,Salem 2,unit,pseg-salem-generating-station,power_reactor,operating,,PWR,1138.9,05000311,,,NJ,US,39.4625,-75.5358,2026-10-12,https://nuclear-directory.org/plants/pseg-salem-generating-station
+san-onofre,San Onofre,site,,power_reactor,decommissioning,,,,,,San Clemente,CA,US,,,2026-10-20,https://nuclear-directory.org/plants/san-onofre
+san-onofre-1,San Onofre 1,unit,san-onofre,power_reactor,decommissioning,,,,05000206,,San Clemente,CA,US,,,2026-10-20,https://nuclear-directory.org/plants/san-onofre
+san-onofre-2,San Onofre 2,unit,san-onofre,power_reactor,decommissioning,,,,05000361,,San Clemente,CA,US,,,2026-10-20,https://nuclear-directory.org/plants/san-onofre
+san-onofre-3,San Onofre 3,unit,san-onofre,power_reactor,decommissioning,,,,05000362,,San Clemente,CA,US,,,2026-10-20,https://nuclear-directory.org/plants/san-onofre
+seabrook,Seabrook,site,,power_reactor,operating,,,1247.0,,6115,,NH,US,42.899167,-70.84889,2026-10-12,https://nuclear-directory.org/plants/seabrook
+seabrook-1,Seabrook 1,unit,seabrook,power_reactor,operating,,PWR,1247.0,05000443,,,NH,US,42.899167,-70.84889,2026-10-12,https://nuclear-directory.org/plants/seabrook
+sequoyah,Sequoyah,site,,power_reactor,operating,,,2277.7,,6152,,TN,US,35.2267,-85.0917,2026-10-12,https://nuclear-directory.org/plants/sequoyah
+sequoyah-1,Sequoyah 1,unit,sequoyah,power_reactor,operating,,PWR,1152.0,05000327,,,TN,US,35.2267,-85.0917,2026-10-12,https://nuclear-directory.org/plants/sequoyah
+sequoyah-2,Sequoyah 2,unit,sequoyah,power_reactor,operating,,PWR,1125.7,05000328,,,TN,US,35.2267,-85.0917,2026-10-12,https://nuclear-directory.org/plants/sequoyah
+shearon-harris-1,Shearon Harris 1,unit,harris-nc,power_reactor,operating,,PWR,964.0,05000400,,,NC,US,35.6334,-78.9556,2026-10-12,https://nuclear-directory.org/plants/harris-nc
+shirley-basin-isr-operation,Shirley Basin ISR operation,site,,uranium_mine,operating,,,,,,,WY,US,,,2026-10-10,https://nuclear-directory.org/plants/shirley-basin-isr-operation
+south-texas-1,South Texas 1,unit,south-texas-project,power_reactor,operating,,PWR,1300.0,05000498,,,TX,US,28.795,-96.0481,2026-10-12,https://nuclear-directory.org/plants/south-texas-project
+south-texas-2,South Texas 2,unit,south-texas-project,power_reactor,operating,,PWR,1280.0,05000499,,,TX,US,28.795,-96.0481,2026-10-12,https://nuclear-directory.org/plants/south-texas-project
+south-texas-project,South Texas Project,site,,power_reactor,operating,,,2580.0,,6251,,TX,US,28.795,-96.0481,2026-10-12,https://nuclear-directory.org/plants/south-texas-project
+sparc,SPARC,site,,fusion_facility,under_construction,,,,,,Devens,MA,US,,,2026-10-24,https://nuclear-directory.org/plants/sparc
+st-lucie,St Lucie,site,,power_reactor,operating,,,1968.0,,6045,,FL,US,27.348611,-80.24639,2026-10-12,https://nuclear-directory.org/plants/st-lucie
+summer,Summer,unit,v-c-summer,power_reactor,operating,,PWR,977.2,05000395,,,SC,US,34.2983,-81.3153,2026-10-12,https://nuclear-directory.org/plants/v-c-summer
+surry,Surry,site,,power_reactor,operating,,,1676.0,,3806,,VA,US,37.1661,-76.6986,2026-10-12,https://nuclear-directory.org/plants/surry
+surry-1,Surry 1,unit,surry,power_reactor,operating,,PWR,838.0,05000280,,,VA,US,37.1661,-76.6986,2026-10-12,https://nuclear-directory.org/plants/surry
+surry-2,Surry 2,unit,surry,power_reactor,operating,,PWR,838.0,05000281,,,VA,US,37.1661,-76.6986,2026-10-12,https://nuclear-directory.org/plants/surry
+susquehanna-1,Susquehanna 1,unit,susquehanna-steam-electric-station,power_reactor,operating,,BWR,1247.0,05000387,,,PA,US,41.0919,-76.1462,2026-10-12,https://nuclear-directory.org/plants/susquehanna-steam-electric-station
+susquehanna-2,Susquehanna 2,unit,susquehanna-steam-electric-station,power_reactor,operating,,BWR,1247.0,05000388,,,PA,US,41.0919,-76.1462,2026-10-12,https://nuclear-directory.org/plants/susquehanna-steam-electric-station
+susquehanna-steam-electric-station,Susquehanna Steam Electric Station,site,,power_reactor,operating,,,2494.0,,6103,,PA,US,41.0919,-76.1462,2026-10-10,https://nuclear-directory.org/plants/susquehanna-steam-electric-station
+three-mile-island-2,Three Mile Island 2,site,,power_reactor,decommissioning,,,,05000320,,Middletown,PA,US,,,2026-10-20,https://nuclear-directory.org/plants/three-mile-island-2
+triso-x,TRISO-X,unit,triso-x-tx-1-fuel-fabrication-facility,fuel_facility,planned,,,,07007027,,Oak Ridge,TN,US,,,2026-10-24,https://nuclear-directory.org/plants/triso-x-tx-1-fuel-fabrication-facility
+triso-x-tx-1-fuel-fabrication-facility,TRISO-X TX-1 fuel fabrication facility,site,,fuel_facility,under_construction,,,,,,Oak Ridge,TN,US,,,2026-10-10,https://nuclear-directory.org/plants/triso-x-tx-1-fuel-fabrication-facility
+turkey-point,Turkey Point,site,,power_reactor,operating,,,1681.0,,621,,FL,US,25.4356,-80.3308,2026-10-12,https://nuclear-directory.org/plants/turkey-point
+turkey-point-3,Turkey Point 3,unit,turkey-point,power_reactor,operating,,PWR,837.0,05000250,,,FL,US,25.4356,-80.3308,2026-10-12,https://nuclear-directory.org/plants/turkey-point
+turkey-point-4,Turkey Point 4,unit,turkey-point,power_reactor,operating,,PWR,844.0,05000251,,,FL,US,25.4356,-80.3308,2026-10-12,https://nuclear-directory.org/plants/turkey-point
+urenco-usa-enrichment-facility,Urenco USA enrichment facility,site,,enrichment,operating,,,,,,Eunice,NM,US,,,2026-10-10,https://nuclear-directory.org/plants/urenco-usa-enrichment-facility
+v-c-summer,V C Summer,site,,power_reactor,operating,,,977.2,,6127,,SC,US,34.2983,-81.3153,2026-10-12,https://nuclear-directory.org/plants/v-c-summer
+vermont-yankee,Vermont Yankee,site,,power_reactor,decommissioning,,,,05000271,,Vernon,VT,US,,,2026-10-20,https://nuclear-directory.org/plants/vermont-yankee
+vogtle-1,Vogtle 1,unit,plant-vogtle,power_reactor,operating,,PWR,1150.0,05000424,,,GA,US,33.1427,-81.7625,2026-10-12,https://nuclear-directory.org/plants/plant-vogtle
+vogtle-2,Vogtle 2,unit,plant-vogtle,power_reactor,operating,,PWR,1152.0,05000425,,,GA,US,33.1427,-81.7625,2026-10-12,https://nuclear-directory.org/plants/plant-vogtle
+vogtle-3,Vogtle 3,unit,plant-vogtle,power_reactor,operating,,PWR,1114.0,05200025,,,GA,US,33.1427,-81.7625,2026-10-12,https://nuclear-directory.org/plants/plant-vogtle
+vogtle-4,Vogtle 4,unit,plant-vogtle,power_reactor,operating,,PWR,1114.0,05200026,,,GA,US,33.1427,-81.7625,2026-10-12,https://nuclear-directory.org/plants/plant-vogtle
+waterford-3,Waterford 3,site,,power_reactor,operating,,,1086.9,,4270,,LA,US,29.995267,-90.47158,2026-10-12,https://nuclear-directory.org/plants/waterford-3
+waterford-3-unit,Waterford 3,unit,waterford-3,power_reactor,operating,,PWR,1086.9,05000382,,,LA,US,29.995267,-90.47158,2026-10-12,https://nuclear-directory.org/plants/waterford-3
+watts-bar-1,Watts Bar 1,unit,watts-bar-nuclear-plant,power_reactor,operating,,PWR,1123.0,05000390,,,TN,US,35.6021,-84.7895,2026-10-12,https://nuclear-directory.org/plants/watts-bar-nuclear-plant
+watts-bar-2,Watts Bar 2,unit,watts-bar-nuclear-plant,power_reactor,operating,,PWR,1122.0,05000391,,,TN,US,35.6021,-84.7895,2026-10-12,https://nuclear-directory.org/plants/watts-bar-nuclear-plant
+watts-bar-nuclear-plant,Watts Bar Nuclear Plant,site,,power_reactor,operating,,,2245.0,,7722,,TN,US,35.6021,-84.7895,2026-10-12,https://nuclear-directory.org/plants/watts-bar-nuclear-plant
+westinghouse,Westinghouse,site,,fuel_facility,operating,,,,07001151,,Columbia,SC,US,,,2026-10-24,https://nuclear-directory.org/plants/westinghouse
+white-mesa-mill,White Mesa Mill,site,,mill,operating,,,,,,,UT,US,,,2026-10-10,https://nuclear-directory.org/plants/white-mesa-mill
+wolf-creek-1,Wolf Creek 1,unit,wolf-creek-generating-station,power_reactor,operating,,PWR,1176.7,05000482,,,KS,US,38.23926,-95.68978,2026-10-12,https://nuclear-directory.org/plants/wolf-creek-generating-station
+wolf-creek-generating-station,Wolf Creek Generating Station,site,,power_reactor,operating,,,1176.7,,210,,KS,US,38.23926,-95.68978,2026-10-12,https://nuclear-directory.org/plants/wolf-creek-generating-station

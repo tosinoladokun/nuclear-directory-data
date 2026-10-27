@@ -1,0 +1,3700 @@
+[
+  {
+    "slug": "3m-company",
+    "name": "3M",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/3m-company"
+  },
+  {
+    "slug": "adp-cr3",
+    "name": "ADP-CR3",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": "NRC-licensed operator responsible for decommissioning Crystal River 3.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "waste-decommissioning"
+    ],
+    "roles": [
+      "waste_decommissioning"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/adp-cr3"
+  },
+  {
+    "slug": "advanced-conductor-technologies",
+    "name": "Advanced Conductor Technologies",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-17",
+    "url": "https://nuclear-directory.org/companies/advanced-conductor-technologies"
+  },
+  {
+    "slug": "advanced-reactor-concepts",
+    "name": "Advanced Reactor Concepts",
+    "legal_name": null,
+    "aliases": [
+      "ARC Clean Technology"
+    ],
+    "website": "https://www.arc-cleantech.com/",
+    "description": "Develops the ARC-100, a sodium-cooled fast small modular reactor.",
+    "hq_city": "Washington",
+    "hq_state": "DC",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/advanced-reactor-concepts"
+  },
+  {
+    "slug": "alabama-power",
+    "name": "Alabama Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.alabamapower.com",
+    "description": "Electric utility in Alabama, part of Southern Company, that owns Plant Farley.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/alabama-power"
+  },
+  {
+    "slug": "allegheny-electric-cooperative",
+    "name": "Allegheny Electric Cooperative",
+    "legal_name": "Allegheny Electric Cooperative, Inc.",
+    "aliases": [
+      "Allegheny Electric"
+    ],
+    "website": "https://prea.com",
+    "description": null,
+    "hq_city": "Harrisburg",
+    "hq_state": "PA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-11",
+    "url": "https://nuclear-directory.org/companies/allegheny-electric-cooperative"
+  },
+  {
+    "slug": "allied-power",
+    "name": "Allied Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://alliedpwr.com",
+    "description": "Company that provides maintenance, modification and project services to power plants, including nuclear plants.",
+    "hq_city": "Baton Rouge",
+    "hq_state": "LA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "services"
+    ],
+    "roles": [
+      "reactor_services"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/allied-power"
+  },
+  {
+    "slug": "amazon",
+    "name": "Amazon",
+    "legal_name": "Amazon.com, Inc.",
+    "aliases": [
+      "AWS",
+      "Amazon Climate Pledge Fund",
+      "Amazon Web Services",
+      "Amazon.com, Inc."
+    ],
+    "website": "https://www.aboutamazon.com",
+    "description": "Company offering online shopping, cloud computing, streaming, devices, advertising and AI services.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers",
+      "investors"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/amazon"
+  },
+  {
+    "slug": "ameren-ue",
+    "name": "Ameren UE",
+    "legal_name": null,
+    "aliases": [
+      "Union Electric Co - (MO)"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/ameren-ue"
+  },
+  {
+    "slug": "ampeers",
+    "name": "Ampeers",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.ampeers.com/",
+    "description": "Makes superconducting wire for fusion magnets and power systems.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/ampeers"
+  },
+  {
+    "slug": "analysis-and-measurement-services",
+    "name": "Analysis and Measurement Services",
+    "legal_name": null,
+    "aliases": [
+      "AMS Corporation"
+    ],
+    "website": "https://www.ams-corp.com/",
+    "description": "Nuclear engineering consultancy that tests instrumentation and control systems at nuclear facilities.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "services"
+    ],
+    "roles": [
+      "reactor_services"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/analysis-and-measurement-services"
+  },
+  {
+    "slug": "aqwest",
+    "name": "Aqwest",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.aqwest.com/",
+    "description": "Develops photonics, thermal management and energy-efficiency products.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/aqwest"
+  },
+  {
+    "slug": "ares-security",
+    "name": "Ares Security",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/ares-security"
+  },
+  {
+    "slug": "argonne-national-laboratory",
+    "name": "Argonne National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "ANL"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/argonne-national-laboratory"
+  },
+  {
+    "slug": "arizona-public-service-co",
+    "name": "Arizona Public Service Co.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/arizona-public-service-co"
+  },
+  {
+    "slug": "asp-isotopes",
+    "name": "ASP Isotopes",
+    "legal_name": null,
+    "aliases": [
+      "ASPI",
+      "QLE",
+      "Quantum Leap Energy"
+    ],
+    "website": "https://www.aspisotopes.com",
+    "description": "Isotope enrichment company developing nuclear fuel enrichment through Quantum Leap Energy.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "enrichment",
+      "isotopes"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-19",
+    "url": "https://nuclear-directory.org/companies/asp-isotopes"
+  },
+  {
+    "slug": "babcock-wilcox",
+    "name": "Babcock & Wilcox",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/babcock-wilcox"
+  },
+  {
+    "slug": "bernhard-capital-partners",
+    "name": "Bernhard Capital Partners",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.bernhardcapital.com",
+    "description": "Private equity firm, founded in 2013, that invests in services and infrastructure businesses.",
+    "hq_city": "Baton Rouge",
+    "hq_state": "LA",
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [
+      "venture_capital"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/bernhard-capital-partners"
+  },
+  {
+    "slug": "blue-energy",
+    "name": "Blue Energy",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.blueenergy.co",
+    "description": "Company that designs nuclear plants to be prefabricated in factories and assembled on site.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "project_developer"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/blue-energy"
+  },
+  {
+    "slug": "blue-wave-capital-and-consulting",
+    "name": "Blue Wave Capital and Consulting",
+    "legal_name": null,
+    "aliases": [
+      "Blue Wave AI Labs"
+    ],
+    "website": "https://bluewaveailabs.com/",
+    "description": "Makes AI software that helps nuclear plants cut fuel and maintenance costs.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "services"
+    ],
+    "roles": [
+      "reactor_services"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/blue-wave-capital-and-consulting"
+  },
+  {
+    "slug": "breakthrough-energy-ventures",
+    "name": "Breakthrough Energy Ventures",
+    "legal_name": null,
+    "aliases": [
+      "BEV"
+    ],
+    "website": "https://www.breakthroughenergy.org",
+    "description": "Investment arm of Breakthrough Energy that backs clean energy technology companies.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [
+      "venture_capital"
+    ],
+    "technologies": [
+      "fusion"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/breakthrough-energy-ventures"
+  },
+  {
+    "slug": "bridge12",
+    "name": "Bridge12",
+    "legal_name": null,
+    "aliases": [
+      "BRIDGE 12 TECHNOLOGIES, INC."
+    ],
+    "website": "https://www.bridge12.com/",
+    "description": "Develops high-power microwave, millimeter-wave and terahertz systems for fusion and spectroscopy.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/bridge12"
+  },
+  {
+    "slug": "brookhaven-national-laboratory",
+    "name": "Brookhaven National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "BNL"
+    ],
+    "website": "https://www.bnl.gov",
+    "description": "National laboratory working on scientific discovery and technological innovation.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/brookhaven-national-laboratory"
+  },
+  {
+    "slug": "brookhaven-technology-group",
+    "name": "Brookhaven Technology Group",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://brookhaventech.com/",
+    "description": "Develops superconducting cables, including for compact fusion reactors.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/brookhaven-technology-group"
+  },
+  {
+    "slug": "bwxt",
+    "name": "BWXT",
+    "legal_name": null,
+    "aliases": [
+      "BWXT NOG Technologies",
+      "BWXT NUCLEAR ENERGY, INC.",
+      "BWXT NUCLEAR OPERATIONS GROUP, INC."
+    ],
+    "website": "https://www.bwxt.com/",
+    "description": "Makes naval nuclear reactors and components, as it has since the 1950s, and nuclear fuel.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "components"
+    ],
+    "roles": [
+      "components",
+      "fabrication",
+      "fuel"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/bwxt"
+  },
+  {
+    "slug": "centrus-energy",
+    "name": "Centrus Energy",
+    "legal_name": "Centrus Energy Corp.",
+    "aliases": [
+      "American Centrifuge Operating, LLC",
+      "Centrus"
+    ],
+    "website": "https://www.centrusenergy.com",
+    "description": "Company that supplies enriched uranium fuel for nuclear power plants and is expanding HALEU production.",
+    "hq_city": "Bethesda",
+    "hq_state": "MD",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "enrichment",
+      "fuel"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/centrus-energy"
+  },
+  {
+    "slug": "ceramic-tubular-products",
+    "name": "Ceramic Tubular Products",
+    "legal_name": null,
+    "aliases": [
+      "CTP"
+    ],
+    "website": "https://ctp-usa.com/",
+    "description": "Lynchburg, Virginia manufacturer of silicon carbide nuclear fuel rod cladding.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/ceramic-tubular-products"
+  },
+  {
+    "slug": "commonwealth-fusion-systems",
+    "name": "Commonwealth Fusion Systems",
+    "legal_name": null,
+    "aliases": [
+      "CFS"
+    ],
+    "website": "https://cfs.energy",
+    "description": "Fusion company building the SPARC tokamak and planning the ARC fusion power plant.",
+    "hq_city": "Devens",
+    "hq_state": "MA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fusion"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/commonwealth-fusion-systems"
+  },
+  {
+    "slug": "constellation-energy",
+    "name": "Constellation",
+    "legal_name": "Constellation Energy Corporation",
+    "aliases": [
+      "Constellation Energy Corporation",
+      "Constellation Energy Generation, LLC",
+      "Constellation Nuclear"
+    ],
+    "website": "https://www.constellationenergy.com",
+    "description": "Power producer with nuclear, gas, hydro, wind and solar plants; the largest nuclear energy company in the U.S.",
+    "hq_city": "Baltimore",
+    "hq_state": "MD",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator",
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/constellation-energy"
+  },
+  {
+    "slug": "container-technologies-industries",
+    "name": "Container Technologies Industries",
+    "legal_name": null,
+    "aliases": [
+      "CTI Fab"
+    ],
+    "website": "https://containertechnologies.com/",
+    "description": "Metal fabricator making nuclear-quality containers for DOE and the nuclear industry.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/container-technologies-industries"
+  },
+  {
+    "slug": "converdyn",
+    "name": "ConverDyn",
+    "legal_name": null,
+    "aliases": [
+      "ConverDyn, GP"
+    ],
+    "website": "https://www.converdyn.com",
+    "description": "Company that supplies uranium hexafluoride (UF6) conversion services to nuclear power plants worldwide.",
+    "hq_city": "Greenwood Village",
+    "hq_state": "CO",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "conversion",
+      "fuel"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/converdyn"
+  },
+  {
+    "slug": "crow-butte-resources-inc",
+    "name": "Crow Butte Resources, Inc.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/crow-butte-resources-inc"
+  },
+  {
+    "slug": "crusoe",
+    "name": "Crusoe",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.crusoe.ai",
+    "description": "AI infrastructure company that builds AI data centers and runs an AI cloud.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/crusoe"
+  },
+  {
+    "slug": "curtiss-wright",
+    "name": "Curtiss-Wright",
+    "legal_name": "Curtiss-Wright Corporation",
+    "aliases": [],
+    "website": "https://www.curtisswright.com",
+    "description": "Maker of engineered products for aerospace and defense and for commercial nuclear power, including reactor coolant pumps and control rod drive mechanisms.",
+    "hq_city": "Davidson",
+    "hq_state": "NC",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/curtiss-wright"
+  },
+  {
+    "slug": "dalton-utilities",
+    "name": "Dalton Utilities",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.dutil.com",
+    "description": "Public utility, operating since 1889, providing water, electric, natural gas and wastewater services to the City of Dalton and nearby counties",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-11",
+    "url": "https://nuclear-directory.org/companies/dalton-utilities"
+  },
+  {
+    "slug": "dominion-energy",
+    "name": "Dominion Energy",
+    "legal_name": null,
+    "aliases": [
+      "Dominion Energy Nuclear Conn Inc",
+      "Dominion Energy South Carolina, Inc",
+      "Dominion Energy Virginia",
+      "Dominion Generation",
+      "Dominion Nuclear Connecticut",
+      "Virginia Electric & Power Co"
+    ],
+    "website": "https://www.dominionenergy.com",
+    "description": "Utility that provides regulated electricity service in Virginia, North Carolina and South Carolina.",
+    "hq_city": "Richmond",
+    "hq_state": "VA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator",
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/dominion-energy"
+  },
+  {
+    "slug": "dte-electric-company",
+    "name": "DTE Electric Company",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/dte-electric-company"
+  },
+  {
+    "slug": "duke-energy",
+    "name": "Duke Energy",
+    "legal_name": null,
+    "aliases": [
+      "Duke Energy Carolinas, LLC",
+      "Duke Energy Progress - (NC)",
+      "Duke Energy Progress, LLC"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/duke-energy"
+  },
+  {
+    "slug": "duke-energy-florida",
+    "name": "Duke Energy Florida",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/duke-energy-florida"
+  },
+  {
+    "slug": "electric-power-research-institute",
+    "name": "Electric Power Research Institute",
+    "legal_name": null,
+    "aliases": [
+      "EPRI"
+    ],
+    "website": "https://www.epri.com/",
+    "description": "Non-profit energy research organization with a program for modernizing nuclear power plants.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "research_organization"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/electric-power-research-institute"
+  },
+  {
+    "slug": "elementl-power",
+    "name": "Elementl Power",
+    "legal_name": null,
+    "aliases": [
+      "Elementl"
+    ],
+    "website": "https://www.elementlpower.com",
+    "description": "Nuclear project developer that develops, finances and delivers new nuclear power projects, from siting and licensing through commercial operation.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "project_developer"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/elementl-power"
+  },
+  {
+    "slug": "enercon",
+    "name": "ENERCON",
+    "legal_name": null,
+    "aliases": [
+      "Enercon Services, Inc."
+    ],
+    "website": "https://www.enercon.com",
+    "description": "Engineering company that helps utilities, nuclear operators and developers with complex engineering challenges.",
+    "hq_city": "Kennesaw",
+    "hq_state": "GA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "services"
+    ],
+    "roles": [
+      "regulatory_consultant"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/enercon"
+  },
+  {
+    "slug": "energy-fuels",
+    "name": "Energy Fuels",
+    "legal_name": "Energy Fuels Inc.",
+    "aliases": [],
+    "website": "https://www.energyfuels.com",
+    "description": "Company that produces uranium for U.S. nuclear utilities, plus rare earth oxides and vanadium.",
+    "hq_city": "Denver",
+    "hq_state": "CO",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "fuel",
+      "mining"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/energy-fuels"
+  },
+  {
+    "slug": "energy-harbor-nuclear-corp",
+    "name": "Energy Harbor Nuclear Corp.",
+    "legal_name": null,
+    "aliases": [
+      "ENERGY HARBOR CORP.",
+      "Energy Harbor Nuclear Generation LLC"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/energy-harbor-nuclear-corp"
+  },
+  {
+    "slug": "energy-northwest",
+    "name": "Energy Northwest",
+    "legal_name": null,
+    "aliases": [
+      "Energy Northwest- Columbia"
+    ],
+    "website": "https://www.energy-northwest.com",
+    "description": "Public power agency in Washington that generates electricity from nuclear, wind, hydro and solar projects.",
+    "hq_city": "Richland",
+    "hq_state": "WA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator",
+      "utility"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/energy-northwest"
+  },
+  {
+    "slug": "eni",
+    "name": "Eni",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/eni"
+  },
+  {
+    "slug": "ensco",
+    "name": "ENSCO",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.ensco.com/",
+    "description": "Engineering company in aerospace, national security, rail and cybersecurity; contracted by DOE to build and test a spent-fuel railcar prototype.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/ensco"
+  },
+  {
+    "slug": "entergy-nuclear-operations-inc",
+    "name": "Entergy",
+    "legal_name": "Entergy Nuclear Operations, Inc.",
+    "aliases": [
+      "Entergy Arkansas LLC",
+      "Entergy Louisiana LLC",
+      "Entergy Nuclear Operations, Inc.",
+      "System Energy Resources, Inc"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/entergy-nuclear-operations-inc"
+  },
+  {
+    "slug": "entra1-energy",
+    "name": "ENTRA1 Energy",
+    "legal_name": null,
+    "aliases": [
+      "ENTRA1"
+    ],
+    "website": "https://entra1.com",
+    "description": "Energy production company deploying, financing and operating baseload power infrastructure across nuclear, natural gas and other sources.",
+    "hq_city": "Houston",
+    "hq_state": "TX",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "project_developer"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/entra1-energy"
+  },
+  {
+    "slug": "equinix",
+    "name": "Equinix",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.equinix.com",
+    "description": "Digital infrastructure company that runs a global network of data centers.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "fission",
+      "smr"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/equinix"
+  },
+  {
+    "slug": "faraday-technology",
+    "name": "Faraday Technology",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/faraday-technology"
+  },
+  {
+    "slug": "firstenergy-nuclear-operating-co",
+    "name": "FirstEnergy Nuclear Operating Co.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/firstenergy-nuclear-operating-co"
+  },
+  {
+    "slug": "florida-power-light-co",
+    "name": "Florida Power & Light Co.",
+    "legal_name": "Florida Power & Light Company",
+    "aliases": [
+      "FPL"
+    ],
+    "website": "https://www.fpl.com",
+    "description": "Electric utility serving about 12 million people across Florida, with a fleet that includes nuclear, natural gas, solar and battery storage.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/florida-power-light-co"
+  },
+  {
+    "slug": "fpolisolutions",
+    "name": "Fpolisolutions",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/fpolisolutions"
+  },
+  {
+    "slug": "framatome",
+    "name": "Framatome",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.framatome.com",
+    "description": "Company that designs and makes nuclear steam supply systems and supplies equipment, services and fuel to nuclear plants.",
+    "hq_city": "Courbevoie",
+    "hq_state": null,
+    "country_code": "FR",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "services"
+    ],
+    "roles": [
+      "fabrication",
+      "reactor_services"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/framatome"
+  },
+  {
+    "slug": "general-atomics",
+    "name": "General Atomics",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-17",
+    "url": "https://nuclear-directory.org/companies/general-atomics"
+  },
+  {
+    "slug": "general-matter",
+    "name": "General Matter",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.generalmatter.com",
+    "description": "Company building uranium enrichment in the United States, including HALEU for advanced reactors.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "enrichment",
+      "fuel"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/general-matter"
+  },
+  {
+    "slug": "georgia-power",
+    "name": "Georgia Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.georgiapower.com",
+    "description": "Electric utility serving about 2.8 million customers in Georgia; Plant Vogtle units 3 and 4 are its newest nuclear units.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/georgia-power"
+  },
+  {
+    "slug": "ge-vernova",
+    "name": "GE Vernova",
+    "legal_name": null,
+    "aliases": [
+      "GE VERNOVA OPERATIONS LLC",
+      "General Electric"
+    ],
+    "website": "https://www.gevernova.com",
+    "description": "Energy equipment company making wind and gas turbines; its nuclear business designs reactors with Hitachi.",
+    "hq_city": "Cambridge",
+    "hq_state": "MA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission",
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/ge-vernova"
+  },
+  {
+    "slug": "ge-vernova-hitachi-nuclear-energy",
+    "name": "GE Vernova Hitachi Nuclear Energy",
+    "legal_name": null,
+    "aliases": [
+      "GE Hitachi Nuclear Energy",
+      "GEH",
+      "GVH"
+    ],
+    "website": "https://www.gevernova.com/nuclear",
+    "description": "Reactor developer behind the BWRX-300 small modular reactor that also provides nuclear fuel and services.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers",
+      "services"
+    ],
+    "roles": [
+      "reactor_services",
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission",
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/ge-vernova-hitachi-nuclear-energy"
+  },
+  {
+    "slug": "global-laser-enrichment",
+    "name": "Global Laser Enrichment",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "enrichment"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-17",
+    "url": "https://nuclear-directory.org/companies/global-laser-enrichment"
+  },
+  {
+    "slug": "global-nuclear-fuel-americas",
+    "name": "Global Nuclear Fuel–Americas",
+    "legal_name": null,
+    "aliases": [
+      "GNF",
+      "GNF-A",
+      "Global Nuclear Fuel"
+    ],
+    "website": "https://www.gevernova.com/nuclear",
+    "description": "GE Vernova-led fuel company in Wilmington, North Carolina that makes boiling water reactor fuel.",
+    "hq_city": "Wilmington",
+    "hq_state": "NC",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "fabrication",
+      "fuel"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/global-nuclear-fuel-americas"
+  },
+  {
+    "slug": "good-energy-collective-incorporated",
+    "name": "Good Energy Collective",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "research_organization"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/good-energy-collective-incorporated"
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.google.com",
+    "description": "Power buyer that agreed to buy power from multiple Kairos Power small modular reactors.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers",
+      "investors"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "fusion",
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/google"
+  },
+  {
+    "slug": "h3d",
+    "name": "H3D",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/h3d"
+  },
+  {
+    "slug": "helion-energy",
+    "name": "Helion Energy",
+    "legal_name": null,
+    "aliases": [
+      "Helion"
+    ],
+    "website": "https://www.helionenergy.com",
+    "description": "Fusion company building a fusion power plant to supply electricity to the grid.",
+    "hq_city": "Everett",
+    "hq_state": "WA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fusion"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/helion-energy"
+  },
+  {
+    "slug": "hitachi",
+    "name": "Hitachi",
+    "legal_name": null,
+    "aliases": [
+      "Kabushiki Kaisha Hitachi Seisakusho"
+    ],
+    "website": "https://www.hitachi.com",
+    "description": "Japanese industrial company with a nuclear energy business that includes Fukushima recovery work and fusion research.",
+    "hq_city": "Tokyo",
+    "hq_state": null,
+    "country_code": "JP",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/hitachi"
+  },
+  {
+    "slug": "holtec-decommissioning-international",
+    "name": "Holtec Decommissioning International",
+    "legal_name": "Holtec Decommissioning International, LLC",
+    "aliases": [
+      "HDI",
+      "Holtec Decommissioning International (HDI)"
+    ],
+    "website": "https://hdi-decom.com",
+    "description": "Decommissioning company, a wholly owned subsidiary of Holtec International, for shut-down nuclear power plants.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "waste-decommissioning"
+    ],
+    "roles": [
+      "waste_decommissioning"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/holtec-decommissioning-international"
+  },
+  {
+    "slug": "holtec-international",
+    "name": "Holtec International",
+    "legal_name": null,
+    "aliases": [
+      "Holtec",
+      "Holtec Government Services",
+      "Holtec Palisades, LLC",
+      "SMR, LLC"
+    ],
+    "website": "https://holtecinternational.com",
+    "description": "Company that makes spent fuel storage systems, develops small modular reactors and decommissions nuclear plants.",
+    "hq_city": "Camden",
+    "hq_state": "NJ",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers",
+      "utilities"
+    ],
+    "roles": [
+      "operator",
+      "project_developer",
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/holtec-international"
+  },
+  {
+    "slug": "idaho-national-laboratory",
+    "name": "Idaho National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "INL"
+    ],
+    "website": "https://inl.gov",
+    "description": "DOE national laboratory in southeastern Idaho focused on nuclear energy research and development.",
+    "hq_city": null,
+    "hq_state": "ID",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/idaho-national-laboratory"
+  },
+  {
+    "slug": "illinoisrocstar",
+    "name": "Illinoisrocstar",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/illinoisrocstar"
+  },
+  {
+    "slug": "indiana-michigan-power-co",
+    "name": "Indiana/Michigan Power Co.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/indiana-michigan-power-co"
+  },
+  {
+    "slug": "international-isotopes-inc",
+    "name": "International Isotopes Inc.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-26",
+    "url": "https://nuclear-directory.org/companies/international-isotopes-inc"
+  },
+  {
+    "slug": "kairos-power",
+    "name": "Kairos Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://kairospower.com",
+    "description": "Reactor developer based in Alameda, with a manufacturing hub in Albuquerque and Hermes reactors under construction in Oak Ridge.",
+    "hq_city": "Alameda",
+    "hq_state": "CA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers",
+      "fuel"
+    ],
+    "roles": [
+      "coolant",
+      "molten_salt",
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission",
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/kairos-power"
+  },
+  {
+    "slug": "kewaunee-solutions-inc",
+    "name": "Kewaunee Solutions, Inc.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": "NRC approved the indirect transfer of the Kewaunee Power Station license to this company.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/kewaunee-solutions-inc"
+  },
+  {
+    "slug": "khosla-ventures",
+    "name": "Khosla Ventures",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.khoslaventures.com",
+    "description": "Venture capital firm that invests early, from pre-seed and seed to Series A.",
+    "hq_city": "Menlo Park",
+    "hq_state": "CA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [
+      "venture_capital"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/khosla-ventures"
+  },
+  {
+    "slug": "last-energy",
+    "name": "Last Energy",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.lastenergy.com",
+    "description": "Developer of small modular nuclear power plants that it builds, owns and runs for customers.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/last-energy"
+  },
+  {
+    "slug": "leidos-inc",
+    "name": "Leidos",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/leidos-inc"
+  },
+  {
+    "slug": "lightspeed-venture-partners",
+    "name": "Lightspeed Venture Partners",
+    "legal_name": null,
+    "aliases": [
+      "Lightspeed"
+    ],
+    "website": "https://lsvp.com",
+    "description": "Venture capital firm that invests from seed stage through later rounds.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [
+      "venture_capital"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/lightspeed-venture-partners"
+  },
+  {
+    "slug": "long-mott-energy",
+    "name": "Long Mott Energy",
+    "legal_name": "Long Mott Energy, LLC",
+    "aliases": [
+      "LME"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "project_developer"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-11",
+    "url": "https://nuclear-directory.org/companies/long-mott-energy"
+  },
+  {
+    "slug": "los-alamos-national-laboratory",
+    "name": "Los Alamos National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "LANL"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/los-alamos-national-laboratory"
+  },
+  {
+    "slug": "lowercarbon-capital",
+    "name": "Lowercarbon Capital",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://lowercarboncapital.com",
+    "description": "Venture capital firm funding companies that cut or remove greenhouse gas emissions.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [
+      "venture_capital"
+    ],
+    "technologies": [
+      "fusion"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/lowercarbon-capital"
+  },
+  {
+    "slug": "materials-modifications",
+    "name": "Materials Modifications",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/materials-modifications"
+  },
+  {
+    "slug": "meag-power",
+    "name": "MEAG Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.meagpower.org",
+    "description": "Wholesale electric power provider to 49 public power communities in Georgia",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-11",
+    "url": "https://nuclear-directory.org/companies/meag-power"
+  },
+  {
+    "slug": "meta-platforms",
+    "name": "Meta",
+    "legal_name": "Meta Platforms, Inc.",
+    "aliases": [
+      "Meta Platforms, Inc."
+    ],
+    "website": "https://about.meta.com",
+    "description": "Technology company behind Facebook, Messenger, Instagram and WhatsApp.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers",
+      "investors"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/meta-platforms"
+  },
+  {
+    "slug": "michigan-state-university",
+    "name": "Michigan State University",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "university"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/michigan-state-university"
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "legal_name": "Microsoft Corporation",
+    "aliases": [],
+    "website": "https://www.microsoft.com",
+    "description": "Company that makes AI-powered platforms and tools.",
+    "hq_city": "Redmond",
+    "hq_state": "WA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "fission",
+      "fusion"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/microsoft"
+  },
+  {
+    "slug": "nac-international",
+    "name": "NAC International",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.nacintl.com/",
+    "description": "Designs, licenses and supplies casks for storing and transporting spent nuclear fuel.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "waste-decommissioning"
+    ],
+    "roles": [
+      "waste_decommissioning"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/nac-international"
+  },
+  {
+    "slug": "nasa",
+    "name": "NASA",
+    "legal_name": null,
+    "aliases": [
+      "National Aeronautics and Space Administration"
+    ],
+    "website": "https://www.nasa.gov",
+    "description": "Space agency building SR-1 Freedom, its first fission-powered spacecraft.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "government_agency"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-26",
+    "url": "https://nuclear-directory.org/companies/nasa"
+  },
+  {
+    "slug": "nebraska-public-power-district",
+    "name": "Nebraska Public Power District",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/nebraska-public-power-district"
+  },
+  {
+    "slug": "new-era-energy-digital",
+    "name": "New Era Energy & Digital",
+    "legal_name": null,
+    "aliases": [
+      "NUAI",
+      "New Era"
+    ],
+    "website": "https://newerainfra.ai",
+    "description": "Developer of modular data centers backed by several energy sources.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/new-era-energy-digital"
+  },
+  {
+    "slug": "nextera-energy",
+    "name": "NextEra Energy",
+    "legal_name": null,
+    "aliases": [
+      "NextEra Energy Duane Arnold, LLC",
+      "NextEra Energy Point Beach, LLC",
+      "NextEra Energy Seabrook, LLC"
+    ],
+    "website": "https://www.nexteraenergy.com",
+    "description": "Energy company building generation of all kinds, including nuclear.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/nextera-energy"
+  },
+  {
+    "slug": "northern-states-power-company-minnesota",
+    "name": "Northern States Power Company – Minnesota",
+    "legal_name": null,
+    "aliases": [
+      "Northern States Power",
+      "Northern States Power Co - Minnesota"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/northern-states-power-company-minnesota"
+  },
+  {
+    "slug": "northstar-group-services",
+    "name": "NorthStar Group Services",
+    "legal_name": null,
+    "aliases": [
+      "NorthStar",
+      "NorthStar Group Services, Inc. (NorthStar)"
+    ],
+    "website": null,
+    "description": "Decommissioning company to which NRC approved the transfer of the Vermont Yankee license in October 2018.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "waste-decommissioning"
+    ],
+    "roles": [
+      "waste_decommissioning"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/northstar-group-services"
+  },
+  {
+    "slug": "northstar-vallecitos-llc-nsv",
+    "name": "NorthStar Vallecitos, LLC (NSV)",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": "Licensee of the Vallecitos Experimental Superheat Reactor (EVESR) since the license was transferred to it in March 2025.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "waste-decommissioning"
+    ],
+    "roles": [
+      "waste_decommissioning"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/northstar-vallecitos-llc-nsv"
+  },
+  {
+    "slug": "nuclear-capital-partners",
+    "name": "Nuclear Capital Partners",
+    "legal_name": null,
+    "aliases": [
+      "NCP"
+    ],
+    "website": "https://www.nuclearcp.com",
+    "description": "Investment firm focused on nuclear energy, from advanced reactors and fuel to supply chain.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [
+      "venture_capital"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/nuclear-capital-partners"
+  },
+  {
+    "slug": "nuclear-fuel-services",
+    "name": "Nuclear Fuel Services",
+    "legal_name": null,
+    "aliases": [
+      "NFS"
+    ],
+    "website": null,
+    "description": "BWXT subsidiary that makes fuel material for U.S. Navy submarine and aircraft carrier reactors.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "fuel"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/nuclear-fuel-services"
+  },
+  {
+    "slug": "nufuels-inc",
+    "name": "NuFuels, Inc.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/nufuels-inc"
+  },
+  {
+    "slug": "nuscale-power",
+    "name": "NuScale Power",
+    "legal_name": null,
+    "aliases": [
+      "NuScale"
+    ],
+    "website": "https://www.nuscalepower.com",
+    "description": "Small modular reactor company whose NuScale Power Module was the first SMR design approved by the NRC.",
+    "hq_city": "Portland",
+    "hq_state": "OR",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/nuscale-power"
+  },
+  {
+    "slug": "nusenics",
+    "name": "Nusenics",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://nusenics.com/",
+    "description": "Develops fiber-optic sensors for harsh environments, including fusion plasma diagnostics.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/nusenics"
+  },
+  {
+    "slug": "nuvision-engineering-inc",
+    "name": "NuVision Engineering",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/nuvision-engineering-inc"
+  },
+  {
+    "slug": "oak-ridge-national-laboratory",
+    "name": "Oak Ridge National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "ORNL"
+    ],
+    "website": "https://www.ornl.gov",
+    "description": "DOE national laboratory in Oak Ridge, Tennessee; the largest science and energy lab in the DOE system.",
+    "hq_city": "Oak Ridge",
+    "hq_state": "TN",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/oak-ridge-national-laboratory"
+  },
+  {
+    "slug": "ocean-atomics",
+    "name": "Ocean Atomics",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://oceanatomics.com",
+    "description": "American company designing and assembling a standardized nuclear power plant for maritime use, built on water-cooled reactors.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/ocean-atomics"
+  },
+  {
+    "slug": "oglethorpe-power",
+    "name": "Oglethorpe Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://opc.com",
+    "description": "Georgia electric power producer that generates power for the state's electric membership corporations (EMCs)",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-11",
+    "url": "https://nuclear-directory.org/companies/oglethorpe-power"
+  },
+  {
+    "slug": "oklo",
+    "name": "Oklo",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.oklo.com",
+    "description": "Advanced nuclear company developing fast fission power plants.",
+    "hq_city": "Santa Clara",
+    "hq_state": "CA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/oklo"
+  },
+  {
+    "slug": "old-dominion-electric-cooperative",
+    "name": "Old Dominion Electric Cooperative",
+    "legal_name": null,
+    "aliases": [
+      "ODEC"
+    ],
+    "website": "https://www.odec.com",
+    "description": "Not-for-profit cooperative that buys, makes and moves power for 11 member distribution cooperatives across Virginia, Maryland and Delaware",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-11",
+    "url": "https://nuclear-directory.org/companies/old-dominion-electric-cooperative"
+  },
+  {
+    "slug": "omaha-public-power-district",
+    "name": "Omaha Public Power District",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/omaha-public-power-district"
+  },
+  {
+    "slug": "operant-networks",
+    "name": "Operant Networks",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/operant-networks"
+  },
+  {
+    "slug": "opticslah",
+    "name": "Opticslah",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/opticslah"
+  },
+  {
+    "slug": "oracle",
+    "name": "Oracle",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.oracle.com",
+    "description": "Software and cloud company offering business applications and Oracle Cloud infrastructure.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/oracle"
+  },
+  {
+    "slug": "orano-enrichment-usa-llc",
+    "name": "Orano Enrichment USA, LLC",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/orano-enrichment-usa-llc"
+  },
+  {
+    "slug": "oyster-creek-environmental-protection-llc-ocep",
+    "name": "Oyster Creek Environmental Protection, LLC (OCEP)",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": "Licensed owner of Oyster Creek since the NRC-approved license transfer took effect on 1 July 2019.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/oyster-creek-environmental-protection-llc-ocep"
+  },
+  {
+    "slug": "pacific-gas-electric-co",
+    "name": "Pacific Gas & Electric Co.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/pacific-gas-electric-co"
+  },
+  {
+    "slug": "pacific-northwest-national-laboratory",
+    "name": "Pacific Northwest National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "PNNL"
+    ],
+    "website": "https://www.pnnl.gov",
+    "description": "National laboratory for scientific discovery in chemistry, data analytics and Earth science, and for energy resilience and national security.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/pacific-northwest-national-laboratory"
+  },
+  {
+    "slug": "pkmj-technical-services-llc",
+    "name": "PKMJ Technical Services",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "services"
+    ],
+    "roles": [
+      "reactor_services"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/pkmj-technical-services-llc"
+  },
+  {
+    "slug": "plasma-processes",
+    "name": "Plasma Processes",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://plasmapros.com/",
+    "description": "Develops, makes and coats engineered materials for extreme conditions.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/plasma-processes"
+  },
+  {
+    "slug": "powertech-uranium-corporation",
+    "name": "Powertech Uranium Corporation",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/powertech-uranium-corporation"
+  },
+  {
+    "slug": "prometheus-hyperscale",
+    "name": "Prometheus Hyperscale",
+    "legal_name": null,
+    "aliases": [
+      "Wyoming Hyperscale",
+      "Wyoming Hyperscale White Box LLC"
+    ],
+    "website": "https://prometheushyperscale.com",
+    "description": "Developer of hyperscale data centers, starting with a flagship project in Evanston, Wyoming.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/prometheus-hyperscale"
+  },
+  {
+    "slug": "pseg-nuclear-llc",
+    "name": "PSEG Nuclear, LLC",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/pseg-nuclear-llc"
+  },
+  {
+    "slug": "questek-innovations",
+    "name": "Questek Innovations",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/questek-innovations"
+  },
+  {
+    "slug": "radiant",
+    "name": "Radiant",
+    "legal_name": null,
+    "aliases": [
+      "Radiant Industries"
+    ],
+    "website": "https://www.radiantnuclear.com",
+    "description": "Developer of the Kaleidos microreactor, which is set to be tested at Idaho National Laboratory.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/radiant"
+  },
+  {
+    "slug": "radiation-monitoring-devices",
+    "name": "Radiation Monitoring Devices",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/radiation-monitoring-devices"
+  },
+  {
+    "slug": "sabey-data-centers",
+    "name": "Sabey Data Centers",
+    "legal_name": null,
+    "aliases": [
+      "SDC"
+    ],
+    "website": "https://sabeydatacenters.com",
+    "description": "Data center developer, owner and operator.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/sabey-data-centers"
+  },
+  {
+    "slug": "samsung-c-t",
+    "name": "Samsung C&T",
+    "legal_name": null,
+    "aliases": [
+      "Samsung C&T Engineering & Construction Group"
+    ],
+    "website": "https://www.samsungcnt.com",
+    "description": "Engineering and construction company that has built nuclear plants, including Barakah in the UAE.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "investors"
+    ],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/samsung-c-t"
+  },
+  {
+    "slug": "sargent-lundy",
+    "name": "Sargent & Lundy",
+    "legal_name": null,
+    "aliases": [
+      "S&L"
+    ],
+    "website": "https://www.sargentlundy.com",
+    "description": "Nuclear consulting company serving power plants across their full life cycle.",
+    "hq_city": "Chicago",
+    "hq_state": "IL",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "services"
+    ],
+    "roles": [
+      "regulatory_consultant"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/sargent-lundy"
+  },
+  {
+    "slug": "savannah-river-national-laboratory",
+    "name": "Savannah River National Laboratory",
+    "legal_name": null,
+    "aliases": [
+      "SRNL"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel",
+      "government-research"
+    ],
+    "roles": [
+      "isotopes",
+      "national_lab"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/savannah-river-national-laboratory"
+  },
+  {
+    "slug": "solstice-advanced-materials",
+    "name": "Solstice Advanced Materials",
+    "legal_name": null,
+    "aliases": [
+      "Solstice",
+      "Solstice Advanced Materials US, Inc."
+    ],
+    "website": "https://solstice.com",
+    "description": "Specialty materials company that is the only U.S. supplier of uranium hexafluoride (UF6), made at its Metropolis, Illinois plant.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "conversion",
+      "fuel"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/solstice-advanced-materials"
+  },
+  {
+    "slug": "south-carolina-electric-gas-co",
+    "name": "South Carolina Electric & Gas Co.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/south-carolina-electric-gas-co"
+  },
+  {
+    "slug": "southern-california-edison",
+    "name": "Southern California Edison",
+    "legal_name": null,
+    "aliases": [
+      "SCE",
+      "Southern California Edison (SCE)"
+    ],
+    "website": "https://www.sce.com",
+    "description": "Electric utility that delivers electricity to its communities.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/southern-california-edison"
+  },
+  {
+    "slug": "southern-company",
+    "name": "Southern Company",
+    "legal_name": null,
+    "aliases": [
+      "SOUTHERN COMPANY SERVICES, INC.",
+      "The Southern Company"
+    ],
+    "website": "https://www.southerncompany.com",
+    "description": "Energy company based in Atlanta that invested in the expansion of Plant Vogtle, the largest generator of carbon-free nuclear energy in the U.S.",
+    "hq_city": "Atlanta",
+    "hq_state": "GA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/southern-company"
+  },
+  {
+    "slug": "southern-nuclear-operating-co",
+    "name": "Southern Nuclear Operating Co., Inc.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/southern-nuclear-operating-co"
+  },
+  {
+    "slug": "standard-power",
+    "name": "Standard Power",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": "Company that develops modular data centers.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/standard-power"
+  },
+  {
+    "slug": "stp-nuclear-operating-co",
+    "name": "STP Nuclear Operating Co.",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/stp-nuclear-operating-co"
+  },
+  {
+    "slug": "susquehanna-nuclear-llc",
+    "name": "Susquehanna Nuclear, LLC",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/susquehanna-nuclear-llc"
+  },
+  {
+    "slug": "switch",
+    "name": "Switch",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.switch.com",
+    "description": "Company that designs, builds and runs data centers, headquartered in Las Vegas.",
+    "hq_city": "Las Vegas",
+    "hq_state": "NV",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "power-buyers"
+    ],
+    "roles": [
+      "data_center_offtaker"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/switch"
+  },
+  {
+    "slug": "sydor-instruments",
+    "name": "Sydor Instruments",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://sydortechnologies.com/",
+    "description": "Developer of ultra-fast photodiodes and laser components for fusion facilities, under DOE research awards.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/sydor-instruments"
+  },
+  {
+    "slug": "talen-energy",
+    "name": "Talen Energy",
+    "legal_name": "Talen Energy Corporation",
+    "aliases": [
+      "Talen",
+      "TalenEnergy",
+      "TalenEnergy Susquehanna LLC"
+    ],
+    "website": "https://talenenergy.com",
+    "description": "Independent power producer whose fleet is anchored by the Susquehanna nuclear plant.",
+    "hq_city": "Houston",
+    "hq_state": "TX",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/talen-energy"
+  },
+  {
+    "slug": "tennessee-valley-authority",
+    "name": "Tennessee Valley Authority",
+    "legal_name": null,
+    "aliases": [
+      "TVA"
+    ],
+    "website": "https://www.tva.com",
+    "description": "Federally owned corporation, created in 1933, that supplies wholesale electric power in the Tennessee Valley region.",
+    "hq_city": "Knoxville",
+    "hq_state": "TN",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "utility"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/tennessee-valley-authority"
+  },
+  {
+    "slug": "terrapower",
+    "name": "TerraPower",
+    "legal_name": null,
+    "aliases": [
+      "US SFR Owner"
+    ],
+    "website": "https://www.terrapower.com",
+    "description": "Reactor developer building its first Natrium reactor plant through a DOE demonstration program.",
+    "hq_city": "Bellevue",
+    "hq_state": "WA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/terrapower"
+  },
+  {
+    "slug": "texas-a-m-university",
+    "name": "Texas A&M University",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "university"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/texas-a-m-university"
+  },
+  {
+    "slug": "tmi-2-solutions",
+    "name": "TMI-2 Solutions",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": "Licensee of Three Mile Island Unit 2, authorized to conduct its decommissioning.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "waste-decommissioning"
+    ],
+    "roles": [
+      "waste_decommissioning"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/tmi-2-solutions"
+  },
+  {
+    "slug": "triso-x",
+    "name": "TRISO-X",
+    "legal_name": "TRISO-X, LLC",
+    "aliases": [],
+    "website": "https://x-energy.com",
+    "description": "X-energy fuel company building the TRISO-X fuel fabrication plant in Oak Ridge, Tennessee.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "fabrication",
+      "fuel"
+    ],
+    "technologies": [
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/triso-x"
+  },
+  {
+    "slug": "type-one-energy",
+    "name": "Type One Energy",
+    "legal_name": "Type One Energy Group",
+    "aliases": [
+      "Type One Energy Group"
+    ],
+    "website": "https://typeoneenergy.com",
+    "description": "Fusion company developing stellarator power plants; technology provider for TVA's Infinity Two project.",
+    "hq_city": "Madison",
+    "hq_state": "WI",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fusion"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/type-one-energy"
+  },
+  {
+    "slug": "university-of-alabama-at-birmingham",
+    "name": "University of Alabama at Birmingham",
+    "legal_name": null,
+    "aliases": [
+      "UAB",
+      "University of Alabama-Birmingham"
+    ],
+    "website": null,
+    "description": "University named in DOE's University Isotope Network.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": null,
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "university"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-21",
+    "url": "https://nuclear-directory.org/companies/university-of-alabama-at-birmingham"
+  },
+  {
+    "slug": "university-of-washington",
+    "name": "University of Washington",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "university"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/university-of-washington"
+  },
+  {
+    "slug": "urenco",
+    "name": "Urenco",
+    "legal_name": null,
+    "aliases": [
+      "Louisiana Energy Services",
+      "UUSA",
+      "Urenco Group",
+      "Urenco USA"
+    ],
+    "website": "https://www.urenco.com",
+    "description": "Company that supplies uranium enrichment for nuclear power, with plants in Germany, the Netherlands, the UK and the U.S.",
+    "hq_city": "London",
+    "hq_state": null,
+    "country_code": "GB",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "enrichment",
+      "fuel"
+    ],
+    "technologies": [
+      "fission"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/urenco"
+  },
+  {
+    "slug": "ur-energy",
+    "name": "Ur-Energy",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.ur-energy.com",
+    "description": "Uranium mining company that runs in-situ recovery uranium projects in Wyoming.",
+    "hq_city": "Casper",
+    "hq_state": "WY",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "fuel",
+      "mining"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/ur-energy"
+  },
+  {
+    "slug": "us-department-of-energy",
+    "name": "U.S. Department of Energy",
+    "legal_name": null,
+    "aliases": [
+      "DOE",
+      "Office of Nuclear Energy"
+    ],
+    "website": "https://www.energy.gov",
+    "description": "Federal department that addresses U.S. energy, environmental and nuclear challenges through science and technology.",
+    "hq_city": "Washington",
+    "hq_state": "DC",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "government_agency"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/us-department-of-energy"
+  },
+  {
+    "slug": "us-nuclear-regulatory-commission",
+    "name": "U.S. Nuclear Regulatory Commission",
+    "legal_name": null,
+    "aliases": [
+      "NRC"
+    ],
+    "website": "https://www.nrc.gov",
+    "description": null,
+    "hq_city": "Rockville",
+    "hq_state": "MD",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "government-research"
+    ],
+    "roles": [
+      "government_agency"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/us-nuclear-regulatory-commission"
+  },
+  {
+    "slug": "vistra-corporation",
+    "name": "Vistra Corporation",
+    "legal_name": null,
+    "aliases": [
+      "Luminant Generation Company LLC",
+      "Vistra Operations Company, LLC"
+    ],
+    "website": "https://vistracorp.com",
+    "description": "Power generation and retail electricity company based in Irving, Texas, with a fleet that includes nuclear plants.",
+    "hq_city": "Irving",
+    "hq_state": "TX",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/vistra-corporation"
+  },
+  {
+    "slug": "westinghouse-electric-company",
+    "name": "Westinghouse",
+    "legal_name": "Westinghouse Electric Company LLC",
+    "aliases": [
+      "Combustion Engineering",
+      "Westinghouse Electric Company LLC"
+    ],
+    "website": "https://westinghousenuclear.com",
+    "description": "Company whose reactor technology, services and fuel are used across the world's nuclear power plants.",
+    "hq_city": "Cranberry Township",
+    "hq_state": "PA",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers",
+      "fuel",
+      "services"
+    ],
+    "roles": [
+      "fabrication",
+      "fuel",
+      "reactor_services",
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission",
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/westinghouse-electric-company"
+  },
+  {
+    "slug": "wolf-creek-nuclear-operating-corp",
+    "name": "Wolf Creek Nuclear Operating Corp.",
+    "legal_name": null,
+    "aliases": [
+      "Wolf Creek Nuclear Optg Corp"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "utilities"
+    ],
+    "roles": [
+      "operator"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-12",
+    "url": "https://nuclear-directory.org/companies/wolf-creek-nuclear-operating-corp"
+  },
+  {
+    "slug": "wsc",
+    "name": "WSC",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/wsc"
+  },
+  {
+    "slug": "x-energy",
+    "name": "X-energy",
+    "legal_name": null,
+    "aliases": [
+      "X-Energy Reactor Company, LLC"
+    ],
+    "website": "https://x-energy.com",
+    "description": "Developer of the Xe-100 small modular reactor and of nuclear fuel technology.",
+    "hq_city": "Rockville",
+    "hq_state": "MD",
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "reactor-developers"
+    ],
+    "roles": [
+      "reactor_vendor"
+    ],
+    "technologies": [
+      "fission",
+      "smr"
+    ],
+    "checked_on": "2026-10-10",
+    "url": "https://nuclear-directory.org/companies/x-energy"
+  },
+  {
+    "slug": "xuv-lasers",
+    "name": "XUV Lasers",
+    "legal_name": null,
+    "aliases": [],
+    "website": "https://www.xuvlasers.com",
+    "description": "Develops components and optical coatings for high-power lasers, including fusion laser drivers.",
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "components"
+    ],
+    "roles": [
+      "components"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-16",
+    "url": "https://nuclear-directory.org/companies/xuv-lasers"
+  },
+  {
+    "slug": "x-wave-innovations",
+    "name": "X-Wave Innovations",
+    "legal_name": null,
+    "aliases": [],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [],
+    "roles": [],
+    "technologies": [],
+    "checked_on": "2026-10-24",
+    "url": "https://nuclear-directory.org/companies/x-wave-innovations"
+  },
+  {
+    "slug": "y-12-national-security-complex",
+    "name": "Y-12 National Security Complex",
+    "legal_name": null,
+    "aliases": [
+      "Y-12"
+    ],
+    "website": null,
+    "description": null,
+    "hq_city": null,
+    "hq_state": null,
+    "country_code": "US",
+    "founded_year": null,
+    "status": "active",
+    "buckets": [
+      "fuel"
+    ],
+    "roles": [
+      "isotopes"
+    ],
+    "technologies": [],
+    "checked_on": "2026-10-20",
+    "url": "https://nuclear-directory.org/companies/y-12-national-security-complex"
+  }
+]
